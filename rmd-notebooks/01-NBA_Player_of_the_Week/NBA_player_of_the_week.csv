@@ -1,0 +1,1185 @@
+Age,Date,Draft Year,Height,Player,Position,Season,Season short,Seasons in league,Team,Real_value,Conference,Weight
+32,"Oct 31, 2016",2003,203cm,LeBron James,F,2016-2017,2017,13,Cleveland Cavaliers,0.5,East,113kg
+28,"Oct 31, 2016",2008,191cm,Russell Westbrook,G,2016-2017,2017,8,Oklahoma City Thunder,0.5,West,91kg
+25,"Oct 30, 2017",2013,193cm,Victor Oladipo,G,2017-2018,2018,4,Indiana Pacers,0.5,East,95kg
+27,"Oct 30, 2017",2010,211cm,DeMarcus Cousins,C,2017-2018,2018,7,New Orleans Pelicans,0.5,West,122kg
+23,"Oct 23, 2017",2013,211cm,Giannis Antetokounmpo,F,2017-2018,2018,4,Milwaukee Bucks,0.5,East,101kg
+28,"Oct 23, 2017",2009,196cm,James Harden,SG,2017-2018,2018,8,Houston Rockets,0.5,West,100kg
+22,"Nov 9, 2015",2012,6-11,Andre Drummond,C,2015-2016,2016,3,Detroit Pistons,0.5,East,279
+26,"Nov 9, 2015",2009,6-5,James Harden,SG,2015-2016,2016,6,Houston Rockets,0.5,West,220
+28,"Nov 9, 2009",2001,6-7,Joe Johnson,SG,2009-2010,2010,8,Atlanta Hawks,0.5,East,240
+27,"Nov 9, 2009",2003,7-0,Chris Kaman,C,2009-2010,2010,6,Los Angeles Clippers,0.5,West,265
+27,"Nov 9, 2009",2003,7-0,Chris Kaman,C,2009-2010,2010,6,Los Angeles Clippers,0.5,West,265
+24,"Nov 9, 2003",1999,6-7,Metta World Peace,SF,2003-2004,2004,4,Indiana Pacers,0.5,East,260
+23,"Nov 9, 2003",1999,6-9,Andrei Kirilenko,PF,2003-2004,2004,2,Utah Jazz,0.5,West,235
+31,"Nov 9, 1997",1991,7-2,Dikembe Mutombo,C,1997-1998,1998,6,Atlanta Hawks,1,NA,260
+24,"Nov 9, 1986",1984,6-6,Michael Jordan,SG,1986-1987,1987,2,Chicago Bulls,1,NA,215
+25,"Nov 8, 2010",2004,6-11,Dwight Howard,C,2010-2011,2011,6,Orlando Magic,0.5,East,265
+25,"Nov 8, 2010",2005,6-0,Chris Paul,PG,2010-2011,2011,5,New Orleans Hornets,0.5,West,175
+25,"Nov 8, 2010",2005,6-0,Chris Paul,PG,2010-2011,2011,5,New Orleans Hornets,0.5,West,175
+32,"Nov 7, 2016",2003,203cm,LeBron James,F,2016-2017,2017,13,Cleveland Cavaliers,0.5,East,113kg
+30,"Nov 7, 2016",2008,191cm,George Hill,G,2016-2017,2017,8,Utah Jazz,0.5,West,85kg
+22,"Nov 7, 2005",2003,6-0,T.J. Ford,PG,2005-2006,2006,2,Milwaukee Bucks,0.5,East,165
+27,"Nov 7, 2005",1996,6-6,Kobe Bryant,SG,2005-2006,2006,9,Los Angeles Lakers,0.5,West,212
+23,"Nov 7, 2004",2003,6-4,Dwyane Wade,SG,2004-2005,2005,1,Miami Heat,0.5,East,220
+28,"Nov 7, 2004",1995,6-11,Kevin Garnett,PF,2004-2005,2005,9,Minnesota Timberwolves,0.5,West,240
+30,"Nov 7, 1999",1993,6-3,Sam Cassell,G,1999-2000,2000,6,Milwaukee Bucks,1,NA,185
+22,"Nov 6, 2017",2015,221cm,Kristaps Porzingis,FC,2017-2018,2018,2,New York Knicks,0.5,East,109kg
+28,"Nov 6, 2017",2009,196cm,James Harden,SG,2017-2018,2018,8,Houston Rockets,0.5,West,100kg
+31,"Nov 6, 2006",1996,6-0,Allen Iverson,G,2006-2007,2007,10,Philadelphia Sixers,0.5,East,165
+25,"Nov 6, 2006",2002,6-9,Carlos Boozer,PF,2006-2007,2007,4,Utah Jazz,0.5,West,266
+37,"Nov 6, 2000",1985,6-9,Karl Malone,PF,2000-2001,2001,15,Utah Jazz,1,NA,265
+38,"Nov 6, 2000",1984,6-1,John Stockton,PG,2000-2001,2001,16,Utah Jazz,1,NA,170
+23,"Nov 5, 2012",2009,6-1,Brandon Jennings,G,2012-2013,2013,3,Milwaukee Bucks,0.5,East,170
+23,"Nov 5, 2012",2009,6-5,James Harden,SG,2012-2013,2013,3,Houston Rockets,0.5,West,220
+22,"Nov 4, 2013",2013,6-6,Michael Carter-Williams,PG,2013-2014,2014,0,Philadelphia Sixers,0.5,East,190
+25,"Nov 4, 2013",2008,6-10,Kevin Love,FC,2013-2014,2014,5,Minnesota Timberwolves,0.5,West,251
+24,"Nov 4, 2007",2005,6-9,Danny Granger,GF,2007-2008,2008,2,Indiana Pacers,0.5,East,222
+28,"Nov 4, 2007",1997,6-8,Tracy McGrady,GF,2007-2008,2008,10,Houston Rockets,0.5,West,210
+26,"Nov 4, 2001",1996,6-5,Ray Allen,SG,2001-2002,2002,5,Milwaukee Bucks,0.5,East,205
+23,"Nov 4, 2001",1996,6-6,Kobe Bryant,SG,2001-2002,2002,5,Los Angeles Lakers,0.5,West,212
+26,"Nov 4, 1984",1981,6-10,Larry Nance,PF,1984-1985,1985,3,Phoenix Suns,1,NA,205
+25,"Nov 30, 2015",2010,6-9,Paul George,GF,2015-2016,2016,5,Indiana Pacers,0.5,East,220
+27,"Nov 30, 2015",2007,6-9,Kevin Durant,SF,2015-2016,2016,8,Oklahoma City Thunder,0.5,West,240
+27,"Nov 30, 2009",2001,6-7,Gerald Wallace,F,2009-2010,2010,8,Charlotte Bobcats,0.5,East,220
+33,"Nov 30, 2009",1997,6-11,Tim Duncan,FC,2009-2010,2010,12,San Antonio Spurs,0.5,West,250
+37,"Nov 30, 2003",1991,7-2,Dikembe Mutombo,C,2003-2004,2004,12,New York Knicks,0.5,East,260
+30,"Nov 30, 2003",1994,6-4,Voshon Lenard,SG,2003-2004,2004,8,Denver Nuggets,0.5,West,205
+34,"Nov 30, 1997",1985,6-9,Karl Malone,PF,1997-1998,1998,12,Utah Jazz,1,NA,265
+24,"Nov 30, 1986",1985,6-11,Hot Rod Williams,FC,1986-1987,1987,0,Cleveland Cavaliers,1,NA,215
+30,"Nov 3, 2014",2003,6-11,Chris Bosh,PF,2014-2015,2015,11,Miami Heat,0.5,East,235
+25,"Nov 3, 2014",2011,6-7,Klay Thompson,G,2014-2015,2015,3,Golden State Warriors,0.5,West,215
+24,"Nov 3, 2008",2003,6-11,Chris Bosh,PF,2008-2009,2009,5,Toronto Raptors,0.5,East,235
+23,"Nov 3, 2008",2005,6-0,Chris Paul,PG,2008-2009,2009,3,New Orleans Hornets,0.5,West,175
+23,"Nov 3, 2008",2005,6-0,Chris Paul,PG,2008-2009,2009,3,New Orleans Hornets,0.5,West,175
+30,"Nov 3, 2002",1994,6-7,Glenn Robinson,SF,2002-2003,2003,8,Atlanta Hawks,0.5,East,225
+24,"Nov 3, 2002",1996,6-6,Kobe Bryant,SG,2002-2003,2003,6,Los Angeles Lakers,0.5,West,212
+24,"Nov 3, 1985",1982,6-6,Derek Smith,SG,1985-1986,1986,3,Los Angeles Clippers,1,NA,205
+24,"Nov 3, 1985",1982,6-6,Derek Smith,SG,1985-1986,1986,3,Los Angeles Clippers,1,NA,205
+25,"Nov 29, 2010",2004,6-11,Dwight Howard,C,2010-2011,2011,6,Orlando Magic,0.5,East,265
+32,"Nov 29, 2010",1998,7-0,Dirk Nowitzki,PF,2010-2011,2011,12,Dallas Mavericks,0.5,West,245
+27,"Nov 29, 1992",1987,7-1,David Robinson,C,1992-1993,1993,3,San Antonio Spurs,1,NA,250
+25,"Nov 29, 1987",1983,6-7,Clyde Drexler,SG,1987-1988,1988,4,Portland Trail Blazers,1,NA,210
+28,"Nov 28, 2016",2008,208cm,Kevin Love,FC,2016-2017,2017,8,Cleveland Cavaliers,0.5,East,114kg
+28,"Nov 28, 2016",2007,206cm,Kevin Durant,SF,2016-2017,2017,9,Golden State Warriors,0.5,West,109kg
+23,"Nov 28, 2005",2001,6-7,Gerald Wallace,F,2005-2006,2006,4,Charlotte Bobcats,0.5,East,220
+32,"Nov 28, 2005",1996,6-3,Steve Nash,G,2005-2006,2006,9,Phoenix Suns,0.5,West,178
+20,"Nov 28, 2004",2003,6-8,LeBron James,F,2004-2005,2005,1,Cleveland Cavaliers,0.5,East,250
+26,"Nov 28, 2004",1999,6-7,Shawn Marion,F,2004-2005,2005,5,Phoenix Suns,0.5,West,228
+23,"Nov 28, 1999",1997,6-11,Tim Duncan,FC,1999-2000,2000,2,San Antonio Spurs,1,NA,250
+26,"Nov 28, 1993",1989,6-8,Glen Rice,SF,1993-1994,1994,4,Miami Heat,1,NA,228
+31,"Nov 27, 2017",2008,191cm,Goran Dragic,G,2017-2018,2018,9,Miami Heat,0.5,East,86kg
+24,"Nov 27, 2017",2012,208cm,Anthony Davis,PF,2017-2018,2018,5,New Orleans Pelicans,0.5,West,115kg
+23,"Nov 27, 1994",1993,6-7,Penny Hardaway,PG,1994-1995,1995,1,Orlando Magic,1,NA,195
+26,"Nov 27, 1988",1985,7-0,Patrick Ewing,C,1988-1989,1989,3,New York Knicks,1,NA,240
+26,"Nov 26, 2012",2007,6-10,Al Horford,FC,2012-2013,2013,5,Atlanta Hawks,0.5,East,245
+36,"Nov 26, 2012",1997,6-11,Tim Duncan,FC,2012-2013,2013,15,San Antonio Spurs,0.5,West,250
+21,"Nov 26, 2006",2004,6-11,Dwight Howard,C,2006-2007,2007,2,Orlando Magic,0.5,East,265
+22,"Nov 26, 2006",2003,6-8,Carmelo Anthony,F,2006-2007,2007,3,Denver Nuggets,0.5,West,240
+21,"Nov 26, 2000",1999,6-3,Baron Davis,G,2000-2001,2001,1,Charlotte Hornets,1,NA,215
+26,"Nov 26, 1995",1989,6-10,Shawn Kemp,C,1995-1996,1996,6,Seattle SuperSonics,1,NA,280
+27,"Nov 26, 1989",1983,6-7,Clyde Drexler,SG,1989-1990,1990,6,Portland Trail Blazers,1,NA,210
+23,"Nov 25, 2013",2010,6-4,John Wall,PG,2013-2014,2014,3,Washington Wizards,0.5,East,210
+28,"Nov 25, 2013",2006,6-11,LaMarcus Aldridge,FC,2013-2014,2014,7,Portland Trail Blazers,0.5,West,260
+23,"Nov 25, 2007",2003,6-8,LeBron James,F,2007-2008,2008,4,Cleveland Cavaliers,0.5,East,250
+25,"Nov 25, 2007",2001,6-2,Tony Parker,G,2007-2008,2008,6,San Antonio Spurs,0.5,West,185
+25,"Nov 25, 2001",1996,6-9,Shareef Abdur-Rahim,F,2001-2002,2002,5,Atlanta Hawks,0.5,East,225
+25,"Nov 25, 2001",1997,6-11,Tim Duncan,FC,2001-2002,2002,4,San Antonio Spurs,0.5,West,250
+28,"Nov 25, 1990",1984,6-6,Charles Barkley,PF,1990-1991,1991,6,Philadelphia Sixers,1,NA,252
+28,"Nov 25, 1984",1977,6-7,Bernard King,SF,1984-1985,1985,7,New York Knicks,1,NA,205
+28,"Nov 24, 2014",2005,6-1,Lou Williams,G,2014-2015,2015,9,Toronto Raptors,0.5,East,175
+24,"Nov 24, 2014",2010,6-11,DeMarcus Cousins,C,2014-2015,2015,4,Sacramento Kings,0.5,West,270
+27,"Nov 24, 2008",2003,6-4,Dwyane Wade,SG,2008-2009,2009,5,Miami Heat,0.5,East,220
+30,"Nov 24, 2008",1998,7-0,Dirk Nowitzki,PF,2008-2009,2009,10,Dallas Mavericks,0.5,West,245
+27,"Nov 24, 2002",1996,6-0,Allen Iverson,G,2002-2003,2003,6,Philadelphia Sixers,0.5,East,165
+26,"Nov 24, 2002",1995,6-11,Kevin Garnett,PF,2002-2003,2003,7,Minnesota Timberwolves,0.5,West,240
+34,"Nov 24, 1996",1984,6-6,Charles Barkley,PF,1996-1997,1997,12,Houston Rockets,1,NA,252
+33,"Nov 24, 1996",1985,6-9,Karl Malone,PF,1996-1997,1997,11,Utah Jazz,1,NA,265
+29,"Nov 24, 1991",1984,7-0,Kevin Willis,C,1991-1992,1992,7,Atlanta Hawks,1,NA,245
+32,"Nov 24, 1985",1976,6-7,Alex English,SF,1985-1986,1986,9,Denver Nuggets,1,NA,190
+31,"Nov 23, 2015",2003,6-8,LeBron James,F,2015-2016,2016,12,Cleveland Cavaliers,0.5,East,250
+27,"Nov 23, 2015",2009,6-3,Stephen Curry,G,2015-2016,2016,6,Golden State Warriors,0.5,West,190
+25,"Nov 23, 2009",2003,6-8,LeBron James,F,2009-2010,2010,6,Cleveland Cavaliers,0.5,East,250
+31,"Nov 23, 2009",1996,6-6,Kobe Bryant,SG,2009-2010,2010,13,Los Angeles Lakers,0.5,West,212
+27,"Nov 23, 2003",1997,6-3,Chauncey Billups,G,2003-2004,2004,6,Detroit Pistons,0.5,East,210
+27,"Nov 23, 2003",1995,6-11,Kevin Garnett,PF,2003-2004,2004,8,Minnesota Timberwolves,0.5,West,240
+35,"Nov 23, 1997",1984,6-6,Michael Jordan,SG,1997-1998,1998,12,Chicago Bulls,1,NA,215
+24,"Nov 23, 1986",1984,6-3,Alvin Robertson,SG,1986-1987,1987,2,San Antonio Spurs,1,NA,185
+28,"Nov 22, 2010",2002,6-10,Amar'e Stoudemire,FC,2010-2011,2011,8,New York Knicks,0.5,East,245
+22,"Nov 22, 2010",2008,6-3,Russell Westbrook,G,2010-2011,2011,2,Oklahoma City Thunder,0.5,West,200
+30,"Nov 22, 1992",1984,6-6,Michael Jordan,SG,1992-1993,1993,8,Chicago Bulls,1,NA,215
+24,"Nov 22, 1987",1985,6-7,Xavier McDaniel,PF,1987-1988,1988,2,Seattle SuperSonics,1,NA,205
+27,"Nov 21, 2016",2011,201cm,Jimmy Butler,GF,2016-2017,2017,5,Chicago Bulls,0.5,East,105kg
+23,"Nov 21, 2016",2012,208cm,Anthony Davis,PF,2016-2017,2017,4,New Orleans Pelicans,0.5,West,115kg
+21,"Nov 21, 2005",2003,6-8,LeBron James,F,2005-2006,2006,2,Cleveland Cavaliers,0.5,East,250
+26,"Nov 21, 2005",1999,6-9,Elton Brand,PF,2005-2006,2006,6,Los Angeles Clippers,0.5,West,254
+26,"Nov 21, 2005",1999,6-9,Elton Brand,PF,2005-2006,2006,6,Los Angeles Clippers,0.5,West,254
+32,"Nov 21, 2004",1994,6-8,Grant Hill,SF,2004-2005,2005,10,Orlando Magic,0.5,East,225
+22,"Nov 21, 2004",2002,6-10,Amar'e Stoudemire,FC,2004-2005,2005,2,Phoenix Suns,0.5,West,245
+23,"Nov 21, 1999",1998,6-6,Vince Carter,SF,1999-2000,2000,1,Toronto Raptors,1,NA,220
+31,"Nov 21, 1993",1984,6-6,Charles Barkley,PF,1993-1994,1994,9,Phoenix Suns,1,NA,252
+28,"Nov 20, 2017",2009,201cm,DeMar DeRozan,GF,2017-2018,2018,8,Toronto Raptors,0.5,East,100kg
+22,"Nov 20, 2017",2015,213cm,Karl-Anthony Towns,C,2017-2018,2018,2,Minnesota Timberwolves,0.5,West,111kg
+25,"Nov 20, 1994",1991,6-0,Elliot Perry,PG,1994-1995,1995,3,Phoenix Suns,1,NA,150
+26,"Nov 20, 1988",1984,6-6,Michael Jordan,SG,1988-1989,1989,4,Chicago Bulls,1,NA,215
+22,"Nov 2, 2015",2012,6-11,Andre Drummond,C,2015-2016,2016,3,Detroit Pistons,0.5,East,279
+27,"Nov 2, 2015",2009,6-3,Stephen Curry,G,2015-2016,2016,6,Golden State Warriors,0.5,West,190
+24,"Nov 2, 2009",2004,6-11,Dwight Howard,C,2009-2010,2010,5,Orlando Magic,0.5,East,265
+25,"Nov 2, 2009",2003,6-8,Carmelo Anthony,F,2009-2010,2010,6,Denver Nuggets,0.5,West,240
+24,"Nov 2, 2003",1999,6-3,Baron Davis,G,2003-2004,2004,4,New Orleans Hornets,0.5,East,215
+24,"Nov 2, 2003",1999,6-3,Baron Davis,G,2003-2004,2004,4,New Orleans Hornets,0.5,East,215
+24,"Nov 2, 2003",1998,6-10,Rashard Lewis,F,2003-2004,2004,5,Seattle SuperSonics,0.5,West,235
+28,"Nov 19, 2012",2003,6-8,LeBron James,F,2012-2013,2013,9,Miami Heat,0.5,East,250
+24,"Nov 19, 2012",2007,6-9,Kevin Durant,SF,2012-2013,2013,5,Oklahoma City Thunder,0.5,West,240
+22,"Nov 19, 2006",2003,6-8,LeBron James,F,2006-2007,2007,3,Cleveland Cavaliers,0.5,East,250
+28,"Nov 19, 2006",1998,7-0,Dirk Nowitzki,PF,2006-2007,2007,8,Dallas Mavericks,0.5,West,245
+24,"Nov 19, 2000",1995,6-11,Kevin Garnett,PF,2000-2001,2001,5,Minnesota Timberwolves,1,NA,240
+26,"Nov 19, 1995",1990,6-6,Cedric Ceballos,SF,1995-1996,1996,5,Los Angeles Lakers,1,NA,190
+27,"Nov 19, 1989",1984,6-1,John Stockton,PG,1989-1990,1990,5,Utah Jazz,1,NA,170
+29,"Nov 18, 2013",2003,6-8,LeBron James,F,2013-2014,2014,10,Miami Heat,0.5,East,250
+24,"Nov 18, 2013",2009,6-10,Blake Griffin,PF,2013-2014,2014,4,Los Angeles Clippers,0.5,West,251
+24,"Nov 18, 2013",2009,6-10,Blake Griffin,PF,2013-2014,2014,4,Los Angeles Clippers,0.5,West,251
+22,"Nov 18, 2007",2004,6-11,Dwight Howard,C,2007-2008,2008,3,Orlando Magic,0.5,East,265
+32,"Nov 18, 2007",1996,6-0,Allen Iverson,G,2007-2008,2008,11,Denver Nuggets,0.5,West,165
+26,"Nov 18, 2001",1996,6-0,Allen Iverson,G,2001-2002,2002,5,Philadelphia Sixers,0.5,East,165
+25,"Nov 18, 2001",1995,6-11,Kevin Garnett,PF,2001-2002,2002,6,Minnesota Timberwolves,0.5,West,240
+28,"Nov 18, 1990",1983,6-7,Clyde Drexler,SG,1990-1991,1991,7,Portland Trail Blazers,1,NA,210
+29,"Nov 18, 1984",1976,6-10,Moses Malone,C,1984-1985,1985,8,Philadelphia Sixers,1,NA,215
+30,"Nov 17, 2014",2003,6-8,LeBron James,F,2014-2015,2015,11,Cleveland Cavaliers,0.5,East,250
+24,"Nov 17, 2014",2012,6-3,Damian Lillard,G,2014-2015,2015,2,Portland Trail Blazers,0.5,West,195
+24,"Nov 17, 2008",2003,6-8,LeBron James,F,2008-2009,2009,5,Cleveland Cavaliers,0.5,East,250
+32,"Nov 17, 2008",1997,6-3,Chauncey Billups,G,2008-2009,2009,11,Denver Nuggets,0.5,West,210
+23,"Nov 17, 2002",1999,6-7,Metta World Peace,SF,2002-2003,2003,3,Indiana Pacers,0.5,East,260
+23,"Nov 17, 2002",1998,6-10,Rashard Lewis,F,2002-2003,2003,4,Seattle SuperSonics,0.5,West,235
+36,"Nov 17, 1996",1983,6-7,Dale Ellis,GF,1996-1997,1997,13,Denver Nuggets,1,NA,205
+26,"Nov 17, 1991",1986,7-0,Brad Daugherty,C,1991-1992,1992,5,Cleveland Cavaliers,1,NA,245
+23,"Nov 17, 1985",1985,7-0,Patrick Ewing,C,1985-1986,1986,0,New York Knicks,1,NA,240
+27,"Nov 16, 2015",2008,6-8,Nicolas Batum,F,2015-2016,2016,7,Charlotte Hornets,0.5,East,200
+25,"Nov 16, 2015",2010,6-11,DeMarcus Cousins,C,2015-2016,2016,5,Sacramento Kings,0.5,West,270
+20,"Nov 16, 2009",2009,6-1,Brandon Jennings,G,2009-2010,2010,0,Milwaukee Bucks,0.5,East,170
+31,"Nov 16, 2009",1998,7-0,Dirk Nowitzki,PF,2009-2010,2010,11,Dallas Mavericks,0.5,West,245
+28,"Nov 16, 2003",1996,6-0,Allen Iverson,G,2003-2004,2004,7,Philadelphia Sixers,0.5,East,165
+23,"Nov 16, 2003",2000,6-6,Quentin Richardson,GF,2003-2004,2004,3,Los Angeles Clippers,0.5,West,223
+23,"Nov 16, 2003",2000,6-6,Quentin Richardson,GF,2003-2004,2004,3,Los Angeles Clippers,0.5,West,223
+25,"Nov 16, 1997",1992,7-1,Shaquille O'Neal,C,1997-1998,1998,5,Los Angeles Lakers,1,NA,325
+33,"Nov 16, 1986",1976,7-0,Robert Parish,C,1986-1987,1987,9,Boston Celtics,1,NA,230
+22,"Nov 15, 2010",2008,6-3,Derrick Rose,PG,2010-2011,2011,2,Chicago Bulls,0.5,East,190
+26,"Nov 15, 2010",2005,6-3,Deron Williams,PG,2010-2011,2011,5,Utah Jazz,0.5,West,200
+20,"Nov 15, 1992",1992,7-1,Shaquille O'Neal,C,1992-1993,1993,0,Orlando Magic,1,NA,325
+31,"Nov 15, 1987",1978,6-9,Larry Bird,SF,1987-1988,1988,8,Boston Celtics,1,NA,220
+27,"Nov 14, 2016",2009,201cm,DeMar DeRozan,GF,2016-2017,2017,7,Toronto Raptors,0.5,East,100kg
+27,"Nov 14, 2016",2009,196cm,James Harden,SG,2016-2017,2017,7,Houston Rockets,0.5,West,100kg
+24,"Nov 14, 2005",2001,6-3,Gilbert Arenas,G,2005-2006,2006,4,Washington Wizards,0.5,East,191
+31,"Nov 14, 2005",1996,6-11,Marcus Camby,C,2005-2006,2006,9,Denver Nuggets,0.5,West,240
+20,"Nov 14, 2004",2003,6-8,LeBron James,F,2004-2005,2005,1,Cleveland Cavaliers,0.5,East,250
+29,"Nov 14, 2004",1996,6-5,Ray Allen,SG,2004-2005,2005,8,Seattle SuperSonics,0.5,West,205
+23,"Nov 14, 1999",1995,6-11,Kevin Garnett,PF,1999-2000,2000,4,Minnesota Timberwolves,1,NA,240
+31,"Nov 14, 1993",1984,7-0,Hakeem Olajuwon,C,1993-1994,1994,9,Houston Rockets,1,NA,255
+25,"Nov 13, 2017",2011,206cm,Tobias Harris,F,2017-2018,2018,6,Detroit Pistons,0.5,East,107kg
+23,"Nov 13, 2017",2014,208cm,Nikola Jokic,C,2017-2018,2018,2,Denver Nuggets,0.5,West,113kg
+28,"Nov 13, 1994",1989,6-0,Tim Hardaway,PG,1994-1995,1995,5,Golden State Warriors,1,NA,175
+26,"Nov 13, 1988",1984,7-0,Hakeem Olajuwon,C,1988-1989,1989,4,Houston Rockets,1,NA,255
+28,"Nov 12, 2012",2003,6-8,LeBron James,F,2012-2013,2013,9,Miami Heat,0.5,East,250
+23,"Nov 12, 2012",2011,6-8,Kenneth Faried,F,2012-2013,2013,1,Denver Nuggets,0.5,West,228
+25,"Nov 12, 2006",2001,6-7,Joe Johnson,SG,2006-2007,2007,5,Atlanta Hawks,0.5,East,240
+26,"Nov 12, 2006",2002,7-6,Yao Ming,C,2006-2007,2007,4,Houston Rockets,0.5,West,310
+24,"Nov 12, 2000",1996,6-2,Stephon Marbury,G,2000-2001,2001,4,New Jersey Nets,1,NA,180
+24,"Nov 12, 1995",1993,6-7,Penny Hardaway,PG,1995-1996,1996,2,Orlando Magic,1,NA,195
+28,"Nov 12, 1989",1984,6-5,Vern Fleming,G,1989-1990,1990,5,Indiana Pacers,1,NA,185
+23,"Nov 11, 2013",2010,6-9,Paul George,GF,2013-2014,2014,3,Indiana Pacers,0.5,East,220
+24,"Nov 11, 2013",2011,6-10,Markieff Morris,PF,2013-2014,2014,2,Phoenix Suns,0.5,West,245
+31,"Nov 11, 2007",1995,6-11,Kevin Garnett,PF,2007-2008,2008,12,Boston Celtics,0.5,East,240
+27,"Nov 11, 2007",2002,7-6,Yao Ming,C,2007-2008,2008,5,Houston Rockets,0.5,West,310
+25,"Nov 11, 2001",1998,6-6,Vince Carter,SF,2001-2002,2002,3,Toronto Raptors,0.5,East,220
+25,"Nov 11, 2001",1997,6-11,Tim Duncan,FC,2001-2002,2002,4,San Antonio Spurs,0.5,West,250
+27,"Nov 11, 1990",1985,6-7,Chris Mullin,SF,1990-1991,1991,5,Golden State Warriors,1,NA,215
+31,"Nov 11, 1984",1976,6-7,Alex English,SF,1984-1985,1985,8,Denver Nuggets,1,NA,190
+30,"Nov 10, 2014",2005,6-3,Deron Williams,PG,2014-2015,2015,9,Brooklyn Nets,0.5,East,200
+26,"Nov 10, 2014",2009,6-3,Stephen Curry,G,2014-2015,2015,5,Golden State Warriors,0.5,West,190
+24,"Nov 10, 2008",2003,6-8,LeBron James,F,2008-2009,2009,5,Cleveland Cavaliers,0.5,East,250
+26,"Nov 10, 2008",2002,6-10,Amar'e Stoudemire,FC,2008-2009,2009,6,Phoenix Suns,0.5,West,245
+28,"Nov 10, 2002",1995,6-6,Jerry Stackhouse,SF,2002-2003,2003,7,Washington Wizards,0.5,East,218
+24,"Nov 10, 2002",1998,7-0,Dirk Nowitzki,PF,2002-2003,2003,4,Dallas Mavericks,0.5,West,245
+34,"Nov 10, 1996",1984,7-0,Hakeem Olajuwon,C,1996-1997,1997,12,Houston Rockets,1,NA,255
+28,"Nov 10, 1991",1985,6-7,Chris Mullin,SF,1991-1992,1992,6,Golden State Warriors,1,NA,215
+25,"Nov 10, 1985",1981,6-8,Buck Williams,PF,1985-1986,1986,4,New Jersey Nets,1,NA,215
+25,"Nov 1, 2010",2006,6-1,Rajon Rondo,PG,2010-2011,2011,4,Boston Celtics,0.5,East,186
+30,"Nov 1, 2010",2001,7-0,Pau Gasol,FC,2010-2011,2011,9,Los Angeles Lakers,0.5,West,250
+26,"May 2, 1999",1994,6-8,Grant Hill,SF,1998-1999,1999,4,Detroit Pistons,1,NA,225
+32,"Mar 9, 2015",2003,6-1,Mo Williams,G,2014-2015,2015,11,Charlotte Hornets,0.5,East,198
+26,"Mar 9, 2015",2008,6-3,Russell Westbrook,G,2014-2015,2015,6,Oklahoma City Thunder,0.5,West,200
+27,"Mar 9, 2009",2003,6-4,Dwyane Wade,SG,2008-2009,2009,5,Miami Heat,0.5,East,220
+24,"Mar 9, 2009",2005,6-3,Deron Williams,PG,2008-2009,2009,3,Utah Jazz,0.5,West,200
+27,"Mar 9, 2008",2001,6-6,Jason Richardson,GF,2007-2008,2008,6,Charlotte Bobcats,0.5,East,225
+28,"Mar 9, 2008",1997,6-8,Tracy McGrady,GF,2007-2008,2008,10,Houston Rockets,0.5,West,210
+23,"Mar 9, 2003",1997,6-8,Tracy McGrady,GF,2002-2003,2003,5,Orlando Magic,0.5,East,210
+30,"Mar 9, 2003",1992,7-1,Shaquille O'Neal,C,2002-2003,2003,10,Los Angeles Lakers,0.5,West,325
+34,"Mar 9, 1997",1985,7-0,Patrick Ewing,C,1996-1997,1997,11,New York Knicks,1,NA,240
+26,"Mar 9, 1986",1979,6-9,Magic Johnson,PG,1985-1986,1986,6,Los Angeles Lakers,1,NA,255
+28,"Mar 8, 2010",2003,6-4,Dwyane Wade,SG,2009-2010,2010,6,Miami Heat,0.5,East,220
+31,"Mar 8, 2010",1998,7-0,Dirk Nowitzki,PF,2009-2010,2010,11,Dallas Mavericks,0.5,West,245
+34,"Mar 8, 1998",1985,6-9,Karl Malone,PF,1997-1998,1998,12,Utah Jazz,1,NA,265
+28,"Mar 8, 1992",1985,6-9,Karl Malone,PF,1991-1992,1992,6,Utah Jazz,1,NA,265
+27,"Mar 8, 1987",1979,6-9,Magic Johnson,PG,1986-1987,1987,7,Los Angeles Lakers,1,NA,255
+31,"Mar 7, 2016",2003,6-8,LeBron James,F,2015-2016,2016,12,Cleveland Cavaliers,0.5,East,250
+24,"Mar 7, 2016",2011,6-7,Kawhi Leonard,F,2015-2016,2016,4,San Antonio Spurs,0.5,West,230
+33,"Mar 7, 2011",1998,6-7,Paul Pierce,SF,2010-2011,2011,12,Boston Celtics,0.5,East,235
+22,"Mar 7, 2011",2008,6-3,Russell Westbrook,G,2010-2011,2011,2,Oklahoma City Thunder,0.5,West,200
+24,"Mar 7, 2004",1999,6-10,Lamar Odom,PF,2003-2004,2004,4,Miami Heat,0.5,East,230
+23,"Mar 7, 2004",2002,7-6,Yao Ming,C,2003-2004,2004,1,Houston Rockets,0.5,West,310
+22,"Mar 7, 1999",1997,6-11,Tim Duncan,FC,1998-1999,1999,1,San Antonio Spurs,1,NA,250
+27,"Mar 7, 1993",1988,6-11,Rony Seikaly,C,1992-1993,1993,4,Miami Heat,1,NA,230
+26,"Mar 6, 2017",2011,185cm,Kemba Walker,G,2016-2017,2017,5,Charlotte Hornets,0.5,East,83kg
+25,"Mar 6, 2017",2011,201cm,Kawhi Leonard,F,2016-2017,2017,5,San Antonio Spurs,0.5,West,104kg
+29,"Mar 6, 2005",1996,6-0,Allen Iverson,G,2004-2005,2005,8,Philadelphia Sixers,0.5,East,165
+30,"Mar 6, 2005",1996,6-11,Marcus Camby,C,2004-2005,2005,8,Denver Nuggets,0.5,West,240
+36,"Mar 6, 2000",1985,6-9,Karl Malone,PF,1999-2000,2000,14,Utah Jazz,1,NA,265
+28,"Mar 6, 1994",1987,7-1,David Robinson,C,1993-1994,1994,4,San Antonio Spurs,1,NA,250
+27,"Mar 6, 1988",1983,6-6,Bobby Hansen,SG,1987-1988,1988,4,Utah Jazz,1,NA,190
+28,"Mar 5, 2018",2009,201cm,DeMar DeRozan,GF,2017-2018,2018,8,Toronto Raptors,0.5,East,100kg
+24,"Mar 5, 2018",2012,208cm,Anthony Davis,PF,2017-2018,2018,5,New Orleans Pelicans,0.5,West,115kg
+23,"Mar 5, 2012",2008,6-3,Derrick Rose,PG,2011-2012,2012,3,Chicago Bulls,0.5,East,190
+24,"Mar 5, 2012",2009,5-11,Ty Lawson,PG,2011-2012,2012,2,Denver Nuggets,0.5,West,195
+30,"Mar 5, 2006",1996,6-0,Allen Iverson,G,2005-2006,2006,9,Philadelphia Sixers,0.5,East,165
+25,"Mar 5, 2006",2001,7-0,Pau Gasol,FC,2005-2006,2006,4,Memphis Grizzlies,0.5,West,250
+22,"Mar 5, 1995",1992,7-1,Shaquille O'Neal,C,1994-1995,1995,2,Orlando Magic,1,NA,325
+24,"Mar 5, 1989",1986,6-8,Chuck Person,SF,1988-1989,1989,2,Indiana Pacers,1,NA,220
+27,"Mar 4, 2013",2005,6-3,Monta Ellis,G,2012-2013,2013,7,Milwaukee Bucks,0.5,East,185
+25,"Mar 4, 2013",2009,5-11,Ty Lawson,PG,2012-2013,2013,3,Denver Nuggets,0.5,West,195
+22,"Mar 4, 2007",2004,6-10,Al Jefferson,FC,2006-2007,2007,2,Boston Celtics,0.5,East,289
+24,"Mar 4, 2007",2004,6-7,Kevin Martin,SG,2006-2007,2007,2,Sacramento Kings,0.5,West,199
+24,"Mar 4, 2001",1998,6-6,Vince Carter,SF,2000-2001,2001,2,Toronto Raptors,1,NA,220
+27,"Mar 4, 1990",1984,7-0,Hakeem Olajuwon,C,1989-1990,1990,5,Houston Rockets,1,NA,255
+23,"Mar 31, 2014",2011,7-0,Nikola Vucevic,PF,2013-2014,2014,2,Orlando Magic,0.5,East,260
+37,"Mar 31, 2014",1997,6-11,Tim Duncan,FC,2013-2014,2014,16,San Antonio Spurs,0.5,West,250
+27,"Mar 31, 2002",1996,6-9,Ben Wallace,FC,2001-2002,2002,5,Detroit Pistons,0.5,East,240
+23,"Mar 31, 2002",1999,6-7,Shawn Marion,F,2001-2002,2002,2,Phoenix Suns,0.5,West,228
+31,"Mar 31, 1996",1985,7-3,Arvydas Sabonis,C,1995-1996,1996,0,Portland Trail Blazers,1,NA,279
+28,"Mar 31, 1991",1983,6-7,Clyde Drexler,SG,1990-1991,1991,7,Portland Trail Blazers,1,NA,210
+26,"Mar 30, 2015",2008,7-0,Brook Lopez,C,2014-2015,2015,6,Brooklyn Nets,0.5,East,268
+26,"Mar 30, 2015",2009,6-3,Stephen Curry,G,2014-2015,2015,5,Golden State Warriors,0.5,West,190
+23,"Mar 30, 2009",2004,6-11,Dwight Howard,C,2008-2009,2009,4,Orlando Magic,0.5,East,265
+26,"Mar 30, 2009",2001,6-2,Tony Parker,G,2008-2009,2009,7,San Antonio Spurs,0.5,West,185
+27,"Mar 30, 2008",2001,6-6,Jason Richardson,GF,2007-2008,2008,6,Charlotte Bobcats,0.5,East,225
+23,"Mar 30, 2008",2003,6-8,Carmelo Anthony,F,2007-2008,2008,4,Denver Nuggets,0.5,West,240
+22,"Mar 30, 2003",2001,6-7,Richard Jefferson,SF,2002-2003,2003,1,New Jersey Nets,0.5,East,233
+26,"Mar 30, 2003",1997,6-11,Tim Duncan,FC,2002-2003,2003,5,San Antonio Spurs,0.5,West,250
+30,"Mar 30, 1997",1987,6-1,Kevin Johnson,PG,1996-1997,1997,9,Phoenix Suns,1,NA,180
+23,"Mar 30, 1986",1984,6-6,Charles Barkley,PF,1985-1986,1986,1,Philadelphia Sixers,1,NA,252
+23,"Mar 3, 2014",2010,6-4,John Wall,PG,2013-2014,2014,3,Washington Wizards,0.5,East,210
+24,"Mar 3, 2014",2009,6-5,James Harden,SG,2013-2014,2014,4,Houston Rockets,0.5,West,220
+26,"Mar 3, 2002",1996,6-0,Allen Iverson,G,2001-2002,2002,5,Philadelphia Sixers,0.5,East,165
+27,"Mar 3, 2002",1995,6-11,Rasheed Wallace,FC,2001-2002,2002,6,Portland Trail Blazers,0.5,West,230
+23,"Mar 3, 1996",1992,7-1,Shaquille O'Neal,C,1995-1996,1996,3,Orlando Magic,1,NA,325
+33,"Mar 3, 1996",1984,7-0,Hakeem Olajuwon,C,1995-1996,1996,11,Houston Rockets,1,NA,255
+27,"Mar 3, 1991",1985,6-6,Gerald Wilkins,SG,1990-1991,1991,5,New York Knicks,1,NA,185
+24,"Mar 3, 1985",1982,6-3,Sleepy Floyd,PG,1984-1985,1985,2,Golden State Warriors,1,NA,170
+28,"Mar 29, 2010",2003,6-4,Dwyane Wade,SG,2009-2010,2010,6,Miami Heat,0.5,East,220
+32,"Mar 29, 2010",1999,6-6,Manu Ginobili,SG,2009-2010,2010,7,San Antonio Spurs,0.5,West,205
+24,"Mar 29, 2004",1999,6-7,Metta World Peace,SF,2003-2004,2004,4,Indiana Pacers,0.5,East,260
+25,"Mar 29, 2004",1996,6-6,Kobe Bryant,SG,2003-2004,2004,7,Los Angeles Lakers,0.5,West,212
+28,"Mar 29, 1998",1992,6-10,Alonzo Mourning,C,1997-1998,1998,5,Miami Heat,1,NA,240
+26,"Mar 29, 1992",1987,6-1,Mark Jackson,PG,1991-1992,1992,4,New York Knicks,1,NA,180
+29,"Mar 29, 1987",1980,6-8,Larry Smith,PF,1986-1987,1987,6,Golden State Warriors,1,NA,215
+31,"Mar 28, 2016",2003,6-8,LeBron James,F,2015-2016,2016,12,Cleveland Cavaliers,0.5,East,250
+26,"Mar 28, 2016",2011,6-7,Klay Thompson,G,2015-2016,2016,4,Golden State Warriors,0.5,West,215
+25,"Mar 28, 2011",2004,6-11,Dwight Howard,C,2010-2011,2011,6,Orlando Magic,0.5,East,265
+32,"Mar 28, 2011",1996,6-6,Kobe Bryant,SG,2010-2011,2011,14,Los Angeles Lakers,0.5,West,212
+30,"Mar 28, 1999",1991,6-0,Darrell Armstrong,PG,1998-1999,1999,4,Orlando Magic,1,NA,170
+26,"Mar 28, 1993",1991,7-2,Dikembe Mutombo,C,1992-1993,1993,1,Denver Nuggets,1,NA,260
+27,"Mar 27, 2017",2009,201cm,DeMar DeRozan,GF,2016-2017,2017,7,Toronto Raptors,0.5,East,100kg
+27,"Mar 27, 2017",2009,196cm,James Harden,SG,2016-2017,2017,7,Houston Rockets,0.5,West,100kg
+29,"Mar 27, 2005",1996,6-0,Allen Iverson,G,2004-2005,2005,8,Philadelphia Sixers,0.5,East,165
+29,"Mar 27, 2005",1996,6-5,Ray Allen,SG,2004-2005,2005,8,Seattle SuperSonics,0.5,West,205
+23,"Mar 27, 2000",1995,6-11,Kevin Garnett,PF,1999-2000,2000,4,Minnesota Timberwolves,1,NA,240
+31,"Mar 27, 1994",1984,7-0,Kevin Willis,C,1993-1994,1994,9,Atlanta Hawks,1,NA,245
+25,"Mar 27, 1988",1984,6-6,Michael Jordan,SG,1987-1988,1988,3,Chicago Bulls,1,NA,215
+33,"Mar 26, 2018",2003,203cm,LeBron James,F,2017-2018,2018,14,Cleveland Cavaliers,0.5,East,113kg
+32,"Mar 26, 2018",2006,211cm,LaMarcus Aldridge,FC,2017-2018,2018,11,San Antonio Spurs,0.5,West,118kg
+30,"Mar 26, 2012",2001,6-7,Joe Johnson,SG,2011-2012,2012,10,Atlanta Hawks,0.5,East,240
+23,"Mar 26, 2012",2007,6-9,Kevin Durant,SF,2011-2012,2012,4,Oklahoma City Thunder,0.5,West,240
+21,"Mar 26, 2006",2003,6-8,LeBron James,F,2005-2006,2006,2,Cleveland Cavaliers,0.5,East,250
+25,"Mar 26, 2006",2001,7-0,Pau Gasol,FC,2005-2006,2006,4,Memphis Grizzlies,0.5,West,250
+27,"Mar 26, 1995",1989,7-1,Vlade Divac,C,1994-1995,1995,5,Los Angeles Lakers,1,NA,260
+26,"Mar 26, 1989",1984,6-6,Michael Jordan,SG,1988-1989,1989,4,Chicago Bulls,1,NA,215
+28,"Mar 25, 2013",2003,6-8,LeBron James,F,2012-2013,2013,9,Miami Heat,0.5,East,250
+23,"Mar 25, 2013",2009,6-5,James Harden,SG,2012-2013,2013,3,Houston Rockets,0.5,West,220
+24,"Mar 25, 2007",2001,6-7,Gerald Wallace,F,2006-2007,2007,5,Charlotte Bobcats,0.5,East,220
+28,"Mar 25, 2007",1996,6-6,Kobe Bryant,SG,2006-2007,2007,10,Los Angeles Lakers,0.5,West,212
+23,"Mar 25, 2001",1998,6-7,Paul Pierce,SF,2000-2001,2001,2,Boston Celtics,1,NA,235
+24,"Mar 25, 1990",1987,7-1,David Robinson,C,1989-1990,1990,0,San Antonio Spurs,1,NA,250
+32,"Mar 24, 2014",2001,6-7,Joe Johnson,SG,2013-2014,2014,12,Brooklyn Nets,0.5,East,240
+25,"Mar 24, 2014",2007,6-9,Kevin Durant,SF,2013-2014,2014,6,Oklahoma City Thunder,0.5,West,240
+28,"Mar 24, 2002",1994,6-4,Jason Kidd,PG,2001-2002,2002,7,New Jersey Nets,0.5,East,210
+25,"Mar 24, 2002",1997,6-11,Tim Duncan,FC,2001-2002,2002,4,San Antonio Spurs,0.5,West,250
+28,"Mar 24, 1996",1991,6-10,Chris Gatling,PF,1995-1996,1996,4,Miami Heat,1,NA,220
+25,"Mar 24, 1991",1988,6-5,Mitch Richmond,SG,1990-1991,1991,2,Golden State Warriors,1,NA,215
+37,"Mar 24, 1985",1969,7-2,Kareem Abdul-Jabbar,C,1984-1985,1985,15,Los Angeles Lakers,1,NA,225
+33,"Mar 23, 2015",2003,6-4,Dwyane Wade,SG,2014-2015,2015,11,Miami Heat,0.5,East,220
+29,"Mar 23, 2015",2005,6-0,Chris Paul,PG,2014-2015,2015,9,Los Angeles Clippers,0.5,West,175
+29,"Mar 23, 2015",2005,6-0,Chris Paul,PG,2014-2015,2015,9,Los Angeles Clippers,0.5,West,175
+24,"Mar 23, 2009",2003,6-8,LeBron James,F,2008-2009,2009,5,Cleveland Cavaliers,0.5,East,250
+23,"Mar 23, 2009",2005,6-0,Chris Paul,PG,2008-2009,2009,3,New Orleans Hornets,0.5,West,175
+23,"Mar 23, 2009",2005,6-0,Chris Paul,PG,2008-2009,2009,3,New Orleans Hornets,0.5,West,175
+31,"Mar 23, 2008",1995,6-11,Kevin Garnett,PF,2007-2008,2008,12,Boston Celtics,0.5,East,240
+22,"Mar 23, 2008",2005,6-0,Chris Paul,PG,2007-2008,2008,2,New Orleans Hornets,0.5,West,175
+22,"Mar 23, 2008",2005,6-0,Chris Paul,PG,2007-2008,2008,2,New Orleans Hornets,0.5,West,175
+28,"Mar 23, 2003",1996,6-9,Ben Wallace,FC,2002-2003,2003,6,Detroit Pistons,0.5,East,240
+25,"Mar 23, 2003",1996,6-10,Peja Stojakovic,F,2002-2003,2003,4,Sacramento Kings,0.5,West,229
+33,"Mar 23, 1997",1985,6-9,Karl Malone,PF,1996-1997,1997,11,Utah Jazz,1,NA,265
+30,"Mar 23, 1986",1976,6-5,Adrian Dantley,SF,1985-1986,1986,9,Utah Jazz,1,NA,208
+32,"Mar 22, 2010",1998,6-7,Paul Pierce,SF,2009-2010,2010,11,Boston Celtics,0.5,East,235
+29,"Mar 22, 2010",2001,7-0,Pau Gasol,FC,2009-2010,2010,8,Los Angeles Lakers,0.5,West,250
+25,"Mar 22, 1998",1992,7-1,Shaquille O'Neal,C,1997-1998,1998,5,Los Angeles Lakers,1,NA,325
+22,"Mar 22, 1992",1991,6-6,Larry Johnson,F,1991-1992,1992,0,Charlotte Hornets,1,NA,250
+27,"Mar 22, 1987",1979,6-9,Magic Johnson,PG,1986-1987,1987,7,Los Angeles Lakers,1,NA,255
+29,"Mar 21, 2016",2006,6-1,Kyle Lowry,PG,2015-2016,2016,9,Toronto Raptors,0.5,East,196
+27,"Mar 21, 2016",2007,6-9,Kevin Durant,SF,2015-2016,2016,8,Oklahoma City Thunder,0.5,West,240
+26,"Mar 21, 2011",2003,6-8,LeBron James,F,2010-2011,2011,7,Miami Heat,0.5,East,250
+24,"Mar 21, 2011",2006,6-1,Kyle Lowry,PG,2010-2011,2011,4,Houston Rockets,0.5,West,196
+27,"Mar 21, 2004",1998,6-6,Vince Carter,SF,2003-2004,2004,5,Toronto Raptors,0.5,East,220
+31,"Mar 21, 2004",1992,7-1,Shaquille O'Neal,C,2003-2004,2004,11,Los Angeles Lakers,0.5,West,325
+22,"Mar 21, 1999",1998,6-6,Vince Carter,SF,1998-1999,1999,0,Toronto Raptors,1,NA,220
+30,"Mar 21, 1993",1985,7-0,Patrick Ewing,C,1992-1993,1993,7,New York Knicks,1,NA,240
+27,"Mar 20, 2017",2010,213cm,Hassan Whiteside,C,2016-2017,2017,4,Miami Heat,0.5,East,120kg
+26,"Mar 20, 2017",2012,191cm,Damian Lillard,G,2016-2017,2017,4,Portland Trail Blazers,0.5,West,88kg
+28,"Mar 20, 2005",1997,6-3,Chauncey Billups,G,2004-2005,2005,7,Detroit Pistons,0.5,East,210
+24,"Mar 20, 2005",2001,6-6,Jason Richardson,GF,2004-2005,2005,3,Golden State Warriors,0.5,West,225
+27,"Mar 20, 2000",1994,6-8,Jalen Rose,G,1999-2000,2000,5,Indiana Pacers,1,NA,210
+31,"Mar 20, 1994",1984,7-0,Hakeem Olajuwon,C,1993-1994,1994,9,Houston Rockets,1,NA,255
+25,"Mar 20, 1988",1984,6-6,Charles Barkley,PF,1987-1988,1988,3,Philadelphia Sixers,1,NA,252
+26,"Mar 2, 2015",2011,5-9,Isaiah Thomas,PG,2014-2015,2015,3,Boston Celtics,0.5,East,185
+24,"Mar 2, 2015",2012,6-3,Damian Lillard,G,2014-2015,2015,2,Portland Trail Blazers,0.5,West,195
+26,"Mar 2, 2009",2004,6-3,Devin Harris,G,2008-2009,2009,4,New Jersey Nets,0.5,East,185
+28,"Mar 2, 2009",2003,6-9,David West,PF,2008-2009,2009,5,New Orleans Hornets,0.5,West,250
+28,"Mar 2, 2009",2003,6-9,David West,PF,2008-2009,2009,5,New Orleans Hornets,0.5,West,250
+31,"Mar 2, 2008",1999,6-3,Andre Miller,PG,2007-2008,2008,8,Philadelphia Sixers,0.5,East,200
+29,"Mar 2, 2008",1996,6-6,Kobe Bryant,SG,2007-2008,2008,11,Los Angeles Lakers,0.5,West,212
+40,"Mar 2, 2003",1984,6-6,Michael Jordan,SG,2002-2003,2003,14,Washington Wizards,0.5,East,215
+27,"Mar 2, 2003",1996,6-5,Ray Allen,SG,2002-2003,2003,6,Seattle SuperSonics,0.5,West,205
+30,"Mar 2, 1997",1990,6-9,Loy Vaught,PF,1996-1997,1997,6,Los Angeles Clippers,1,NA,230
+30,"Mar 2, 1997",1990,6-9,Loy Vaught,PF,1996-1997,1997,6,Los Angeles Clippers,1,NA,230
+23,"Mar 2, 1986",1984,6-6,Charles Barkley,PF,1985-1986,1986,1,Philadelphia Sixers,1,NA,252
+33,"Mar 19, 2018",2003,203cm,LeBron James,F,2017-2018,2018,14,Cleveland Cavaliers,0.5,East,113kg
+29,"Mar 19, 2018",2008,191cm,Russell Westbrook,G,2017-2018,2018,9,Oklahoma City Thunder,0.5,West,91kg
+30,"Mar 19, 2012",2002,6-10,Drew Gooden,FC,2011-2012,2012,9,Milwaukee Bucks,0.5,East,250
+24,"Mar 19, 2012",2005,7-0,Andrew Bynum,C,2011-2012,2012,6,Los Angeles Lakers,0.5,West,285
+21,"Mar 19, 2006",2003,6-8,LeBron James,F,2005-2006,2006,2,Cleveland Cavaliers,0.5,East,250
+21,"Mar 19, 2006",2003,6-8,Carmelo Anthony,F,2005-2006,2006,2,Denver Nuggets,0.5,West,240
+21,"Mar 19, 1995",1994,6-4,Jason Kidd,PG,1994-1995,1995,0,Dallas Mavericks,1,NA,210
+22,"Mar 19, 1989",1987,6-1,Kevin Johnson,PG,1988-1989,1989,1,Phoenix Suns,1,NA,180
+22,"Mar 18, 2013",2010,6-4,John Wall,PG,2012-2013,2013,2,Washington Wizards,0.5,East,210
+27,"Mar 18, 2013",2006,6-11,LaMarcus Aldridge,FC,2012-2013,2013,6,Portland Trail Blazers,0.5,West,260
+33,"Mar 18, 2007",1994,6-4,Jason Kidd,PG,2006-2007,2007,12,New Jersey Nets,0.5,East,210
+28,"Mar 18, 2007",1996,6-6,Kobe Bryant,SG,2006-2007,2007,10,Los Angeles Lakers,0.5,West,212
+25,"Mar 18, 2001",1998,6-4,Cuttino Mobley,G,2000-2001,2001,2,Houston Rockets,1,NA,190
+23,"Mar 18, 1990",1987,6-1,Kevin Johnson,PG,1989-1990,1990,2,Phoenix Suns,1,NA,180
+29,"Mar 17, 2014",2004,6-10,Al Jefferson,FC,2013-2014,2014,9,Charlotte Bobcats,0.5,East,289
+24,"Mar 17, 2014",2009,6-10,Blake Griffin,PF,2013-2014,2014,4,Los Angeles Clippers,0.5,West,251
+24,"Mar 17, 2014",2009,6-10,Blake Griffin,PF,2013-2014,2014,4,Los Angeles Clippers,0.5,West,251
+22,"Mar 17, 2002",1997,6-8,Tracy McGrady,GF,2001-2002,2002,4,Orlando Magic,0.5,East,210
+25,"Mar 17, 2002",1997,6-11,Tim Duncan,FC,2001-2002,2002,4,San Antonio Spurs,0.5,West,250
+23,"Mar 17, 1996",1994,6-8,Grant Hill,SF,1995-1996,1996,1,Detroit Pistons,1,NA,225
+25,"Mar 17, 1991",1987,6-3,Kenny Smith,PG,1990-1991,1991,3,Houston Rockets,1,NA,170
+28,"Mar 17, 1985",1978,6-9,Larry Bird,SF,1984-1985,1985,5,Boston Celtics,1,NA,220
+22,"Mar 16, 2015",2011,6-3,Kyrie Irving,G,2014-2015,2015,3,Cleveland Cavaliers,0.5,East,193
+21,"Mar 16, 2015",2012,6-10,Anthony Davis,PF,2014-2015,2015,2,New Orleans Pelicans,0.5,West,253
+24,"Mar 16, 2009",2003,6-8,LeBron James,F,2008-2009,2009,5,Cleveland Cavaliers,0.5,East,250
+30,"Mar 16, 2009",1996,6-6,Kobe Bryant,SG,2008-2009,2009,12,Los Angeles Lakers,0.5,West,212
+31,"Mar 16, 2008",1998,6-9,Antawn Jamison,F,2007-2008,2008,9,Washington Wizards,0.5,East,235
+25,"Mar 16, 2008",2002,6-10,Amar'e Stoudemire,FC,2007-2008,2008,5,Phoenix Suns,0.5,West,245
+27,"Mar 16, 2003",1996,6-0,Allen Iverson,G,2002-2003,2003,6,Philadelphia Sixers,0.5,East,165
+26,"Mar 16, 2003",1999,6-3,Steve Francis,G,2002-2003,2003,3,Houston Rockets,0.5,West,195
+33,"Mar 16, 1997",1985,6-9,Karl Malone,PF,1996-1997,1997,11,Utah Jazz,1,NA,265
+29,"Mar 16, 1986",1978,6-9,Larry Bird,SF,1985-1986,1986,6,Boston Celtics,1,NA,220
+25,"Mar 15, 2010",2005,7-0,Andrew Bogut,C,2009-2010,2010,4,Milwaukee Bucks,0.5,East,260
+25,"Mar 15, 2010",2006,6-6,Brandon Roy,G,2009-2010,2010,3,Portland Trail Blazers,0.5,West,211
+24,"Mar 15, 1998",1994,6-4,Jason Kidd,PG,1997-1998,1998,3,Phoenix Suns,1,NA,210
+28,"Mar 15, 1992",1985,6-3,Joe Dumars,SG,1991-1992,1992,6,Detroit Pistons,1,NA,190
+23,"Mar 15, 1987",1985,6-9,Karl Malone,PF,1986-1987,1987,1,Utah Jazz,1,NA,265
+25,"Mar 14, 2016",2011,6-1,Kemba Walker,G,2015-2016,2016,4,Charlotte Hornets,0.5,East,184
+27,"Mar 14, 2016",2009,6-3,Stephen Curry,G,2015-2016,2016,6,Golden State Warriors,0.5,West,190
+29,"Mar 14, 2011",2003,6-4,Dwyane Wade,SG,2010-2011,2011,7,Miami Heat,0.5,East,220
+28,"Mar 14, 2011",2001,6-2,Tony Parker,G,2010-2011,2011,9,San Antonio Spurs,0.5,West,185
+28,"Mar 14, 2004",1996,7-3,Zydrunas Ilgauskas,C,2003-2004,2004,7,Cleveland Cavaliers,0.5,East,260
+19,"Mar 14, 2004",2003,6-8,Carmelo Anthony,F,2003-2004,2004,0,Denver Nuggets,0.5,West,240
+29,"Mar 14, 1999",1992,6-10,Alonzo Mourning,C,1998-1999,1999,6,Miami Heat,1,NA,240
+26,"Mar 14, 1993",1990,6-2,Rumeal Robinson,PG,1992-1993,1993,2,New Jersey Nets,1,NA,195
+26,"Mar 13, 2017",2010,193cm,John Wall,PG,2016-2017,2017,6,Washington Wizards,0.5,East,95kg
+21,"Mar 13, 2017",2015,213cm,Karl-Anthony Towns,C,2016-2017,2017,1,Minnesota Timberwolves,0.5,West,111kg
+27,"Mar 13, 2005",1998,6-7,Paul Pierce,SF,2004-2005,2005,6,Boston Celtics,0.5,East,235
+25,"Mar 13, 2005",1997,6-8,Tracy McGrady,GF,2004-2005,2005,7,Houston Rockets,0.5,West,210
+27,"Mar 13, 2000",1992,7-1,Shaquille O'Neal,C,1999-2000,2000,7,Los Angeles Lakers,1,NA,325
+30,"Mar 13, 1994",1985,6-3,Joe Dumars,SG,1993-1994,1994,8,Detroit Pistons,1,NA,190
+25,"Mar 13, 1988",1983,6-7,Clyde Drexler,SG,1987-1988,1988,4,Portland Trail Blazers,1,NA,210
+28,"Mar 12, 2018",2009,201cm,DeMar DeRozan,GF,2017-2018,2018,8,Toronto Raptors,0.5,East,100kg
+27,"Mar 12, 2018",2012,191cm,Damian Lillard,G,2017-2018,2018,5,Portland Trail Blazers,0.5,West,88kg
+24,"Mar 12, 2012",2005,6-10,Ersan Ilyasova,F,2011-2012,2012,4,Milwaukee Bucks,0.5,East,235
+26,"Mar 12, 2012",2005,6-3,Monta Ellis,G,2011-2012,2012,6,Golden State Warriors,0.5,West,185
+28,"Mar 12, 2006",1998,6-7,Paul Pierce,SF,2005-2006,2006,7,Boston Celtics,0.5,East,235
+27,"Mar 12, 2006",1998,6-2,Mike Bibby,G,2005-2006,2006,7,Sacramento Kings,0.5,West,195
+28,"Mar 12, 1995",1988,7-4,Rik Smits,C,1994-1995,1995,6,Indiana Pacers,1,NA,250
+27,"Mar 12, 1989",1981,6-1,Isiah Thomas,PG,1988-1989,1989,7,Detroit Pistons,1,NA,180
+31,"Mar 11, 2013",2003,6-4,Dwyane Wade,SG,2012-2013,2013,9,Miami Heat,0.5,East,220
+34,"Mar 11, 2013",1996,6-6,Kobe Bryant,SG,2012-2013,2013,16,Los Angeles Lakers,0.5,West,212
+22,"Mar 11, 2007",2003,6-8,LeBron James,F,2006-2007,2007,3,Cleveland Cavaliers,0.5,East,250
+29,"Mar 11, 2007",1999,6-6,Manu Ginobili,SG,2006-2007,2007,4,San Antonio Spurs,0.5,West,205
+26,"Mar 11, 2001",1997,6-5,Derek Anderson,G,2000-2001,2001,3,San Antonio Spurs,1,NA,194
+24,"Mar 11, 1990",1988,6-11,Rony Seikaly,C,1989-1990,1990,1,Miami Heat,1,NA,230
+29,"Mar 10, 2014",2003,6-8,Carmelo Anthony,F,2013-2014,2014,10,New York Knicks,0.5,East,240
+24,"Mar 10, 2014",2009,6-5,James Harden,SG,2013-2014,2014,4,Houston Rockets,0.5,West,220
+29,"Mar 10, 2002",1995,6-9,Kurt Thomas,FC,2001-2002,2002,6,New York Knicks,0.5,East,240
+29,"Mar 10, 2002",1992,7-1,Shaquille O'Neal,C,2001-2002,2002,9,Los Angeles Lakers,0.5,West,325
+33,"Mar 10, 1996",1984,6-6,Michael Jordan,SG,1995-1996,1996,10,Chicago Bulls,1,NA,215
+22,"Mar 10, 1991",1990,6-8,Dennis Scott,SF,1990-1991,1991,0,Orlando Magic,1,NA,229
+26,"Mar 10, 1985",1980,6-4,Darrell Griffith,SG,1984-1985,1985,4,Utah Jazz,1,NA,190
+25,"Mar 1, 2010",2003,6-8,LeBron James,F,2009-2010,2010,6,Cleveland Cavaliers,0.5,East,250
+31,"Mar 1, 2010",1998,7-0,Dirk Nowitzki,PF,2009-2010,2010,11,Dallas Mavericks,0.5,West,245
+21,"Mar 1, 1998",1997,6-11,Tim Duncan,FC,1997-1998,1998,0,San Antonio Spurs,1,NA,250
+25,"Mar 1, 1992",1988,6-10,Danny Manning,F,1991-1992,1992,3,Los Angeles Clippers,1,NA,230
+25,"Mar 1, 1992",1988,6-10,Danny Manning,F,1991-1992,1992,3,Los Angeles Clippers,1,NA,230
+24,"Mar 1, 1987",1984,6-6,Michael Jordan,SG,1986-1987,1987,2,Chicago Bulls,1,NA,215
+27,"Jan 9, 2017",2011,201cm,Jimmy Butler,GF,2016-2017,2017,5,Chicago Bulls,0.5,East,105kg
+28,"Jan 9, 2017",2009,191cm,Stephen Curry,G,2016-2017,2017,7,Golden State Warriors,0.5,West,86kg
+27,"Jan 9, 2012",2003,6-8,LeBron James,F,2011-2012,2012,8,Miami Heat,0.5,East,250
+33,"Jan 9, 2012",1996,6-6,Kobe Bryant,SG,2011-2012,2012,15,Los Angeles Lakers,0.5,West,212
+20,"Jan 9, 2005",2003,6-11,Chris Bosh,PF,2004-2005,2005,1,Toronto Raptors,0.5,East,235
+33,"Jan 9, 2005",1993,6-7,Bruce Bowen,F,2004-2005,2005,9,San Antonio Spurs,0.5,West,200
+20,"Jan 9, 1994",1993,6-9,Chris Webber,F-C,1993-1994,1994,0,Golden State Warriors,1,NA,245
+28,"Jan 8, 2018",2009,201cm,DeMar DeRozan,GF,2017-2018,2018,8,Toronto Raptors,0.5,East,100kg
+29,"Jan 8, 2018",2009,191cm,Stephen Curry,G,2017-2018,2018,8,Golden State Warriors,0.5,West,86kg
+30,"Jan 8, 2006",1998,6-2,Mike James,G,2005-2006,2006,4,Toronto Raptors,0.5,East,188
+32,"Jan 8, 2006",1996,6-3,Steve Nash,G,2005-2006,2006,9,Phoenix Suns,0.5,West,178
+26,"Jan 8, 1995",1990,6-4,Gary Payton,G,1994-1995,1995,4,Seattle SuperSonics,1,NA,180
+28,"Jan 8, 1989",1983,6-7,Dale Ellis,GF,1988-1989,1989,5,Seattle SuperSonics,1,NA,205
+28,"Jan 7, 2013",2003,6-8,Carmelo Anthony,F,2012-2013,2013,9,New York Knicks,0.5,East,240
+23,"Jan 7, 2013",2009,6-5,James Harden,SG,2012-2013,2013,3,Houston Rockets,0.5,West,220
+25,"Jan 7, 2007",2001,6-3,Gilbert Arenas,G,2006-2007,2007,5,Washington Wizards,0.5,East,191
+30,"Jan 7, 2007",1995,6-11,Kevin Garnett,PF,2006-2007,2007,11,Minnesota Timberwolves,0.5,West,240
+25,"Jan 7, 2001",1996,6-0,Allen Iverson,G,2000-2001,2001,4,Philadelphia Sixers,1,NA,165
+29,"Jan 7, 1996",1989,6-10,Cliff Robinson,PF,1995-1996,1996,6,Portland Trail Blazers,1,NA,225
+29,"Jan 7, 1990",1982,6-5,Terry Teagle,SG,1989-1990,1990,7,Golden State Warriors,1,NA,195
+25,"Jan 6, 2014",2007,6-8,Thaddeus Young,F,2013-2014,2014,6,Philadelphia Sixers,0.5,East,221
+30,"Jan 6, 2014",2005,6-9,David Lee,FC,2013-2014,2014,8,Golden State Warriors,0.5,West,245
+23,"Jan 6, 2008",2003,6-8,LeBron James,F,2007-2008,2008,4,Cleveland Cavaliers,0.5,East,250
+32,"Jan 6, 2008",1996,6-0,Allen Iverson,G,2007-2008,2008,11,Denver Nuggets,0.5,West,165
+30,"Jan 6, 2002",1994,6-6,Eddie Jones,G-F,2001-2002,2002,7,Miami Heat,0.5,East,200
+28,"Jan 6, 2002",1993,6-9,Chris Webber,F-C,2001-2002,2002,8,Sacramento Kings,0.5,West,245
+31,"Jan 6, 1991",1982,6-7,Dominique Wilkins,SF,1990-1991,1991,8,Atlanta Hawks,1,NA,200
+23,"Jan 6, 1985",1981,6-1,Isiah Thomas,PG,1984-1985,1985,3,Detroit Pistons,1,NA,180
+26,"Jan 5, 2015",2009,6-2,Jeff Teague,PG,2014-2015,2015,5,Atlanta Hawks,0.5,East,186
+26,"Jan 5, 2015",2007,6-9,Kevin Durant,SF,2014-2015,2015,7,Oklahoma City Thunder,0.5,West,240
+22,"Jan 5, 2009",2007,6-5,Rodney Stuckey,G,2008-2009,2009,1,Detroit Pistons,0.5,East,205
+24,"Jan 5, 2009",2004,6-10,Al Jefferson,FC,2008-2009,2009,4,Minnesota Timberwolves,0.5,West,289
+40,"Jan 5, 2003",1984,6-6,Michael Jordan,SG,2002-2003,2003,14,Washington Wizards,0.5,East,215
+24,"Jan 5, 2003",1998,7-0,Dirk Nowitzki,PF,2002-2003,2003,4,Dallas Mavericks,0.5,West,245
+29,"Jan 5, 1997",1989,6-8,Glen Rice,SF,1996-1997,1997,7,Charlotte Hornets,1,NA,228
+29,"Jan 5, 1992",1985,7-0,Patrick Ewing,C,1991-1992,1992,6,New York Knicks,1,NA,240
+23,"Jan 5, 1986",1983,6-7,Clyde Drexler,SG,1985-1986,1986,2,Portland Trail Blazers,1,NA,210
+27,"Jan 4, 2016",2008,7-0,Brook Lopez,C,2015-2016,2016,7,Brooklyn Nets,0.5,East,268
+25,"Jan 4, 2016",2012,6-7,Draymond Green,F,2015-2016,2016,3,Golden State Warriors,0.5,West,230
+21,"Jan 4, 2010",2008,6-3,Derrick Rose,PG,2009-2010,2010,1,Chicago Bulls,0.5,East,190
+21,"Jan 4, 2010",2007,6-9,Kevin Durant,SF,2009-2010,2010,2,Oklahoma City Thunder,0.5,West,240
+29,"Jan 4, 2004",1996,6-9,Ben Wallace,FC,2003-2004,2004,7,Detroit Pistons,0.5,East,240
+24,"Jan 4, 2004",1999,6-9,Elton Brand,PF,2003-2004,2004,4,Los Angeles Clippers,0.5,West,254
+24,"Jan 4, 2004",1999,6-9,Elton Brand,PF,2003-2004,2004,4,Los Angeles Clippers,0.5,West,254
+31,"Jan 4, 1998",1988,7-4,Rik Smits,C,1997-1998,1998,9,Indiana Pacers,1,NA,250
+30,"Jan 4, 1987",1978,6-9,Larry Bird,SF,1986-1987,1987,7,Boston Celtics,1,NA,220
+26,"Jan 31, 2011",2003,6-8,LeBron James,F,2010-2011,2011,7,Miami Heat,0.5,East,250
+29,"Jan 31, 2011",2001,6-9,Zach Randolph,PF,2010-2011,2011,9,Memphis Grizzlies,0.5,West,260
+33,"Jan 31, 2000",1991,7-2,Dikembe Mutombo,C,1999-2000,2000,8,Atlanta Hawks,1,NA,260
+29,"Jan 31, 1993",1985,6-9,Karl Malone,PF,1992-1993,1993,7,Utah Jazz,1,NA,265
+31,"Jan 31, 1988",1977,6-7,Bernard King,SF,1987-1988,1988,10,Washington Bullets,1,NA,205
+25,"Jan 30, 2017",2012,193cm,Dion Waiters,SG,2016-2017,2017,4,Miami Heat,0.5,East,100kg
+26,"Jan 30, 2017",2010,211cm,DeMarcus Cousins,C,2016-2017,2017,6,Sacramento Kings,0.5,West,122kg
+27,"Jan 30, 2012",2003,6-8,LeBron James,F,2011-2012,2012,8,Miami Heat,0.5,East,250
+23,"Jan 30, 2012",2008,6-3,Russell Westbrook,G,2011-2012,2012,3,Oklahoma City Thunder,0.5,West,200
+21,"Jan 30, 2006",2003,6-8,LeBron James,F,2005-2006,2006,2,Cleveland Cavaliers,0.5,East,250
+26,"Jan 30, 2006",1999,6-9,Elton Brand,PF,2005-2006,2006,6,Los Angeles Clippers,0.5,West,254
+26,"Jan 30, 2006",1999,6-9,Elton Brand,PF,2005-2006,2006,6,Los Angeles Clippers,0.5,West,254
+28,"Jan 30, 2005",1998,6-6,Vince Carter,SF,2004-2005,2005,6,New Jersey Nets,0.5,East,220
+28,"Jan 30, 2005",1998,7-0,Brad Miller,C,2004-2005,2005,6,Sacramento Kings,0.5,West,261
+30,"Jan 30, 1994",1986,6-6,Ron Harper,SG,1993-1994,1994,7,Los Angeles Clippers,1,NA,185
+30,"Jan 30, 1994",1986,6-6,Ron Harper,SG,1993-1994,1994,7,Los Angeles Clippers,1,NA,185
+27,"Jan 3, 2012",2003,6-8,LeBron James,F,2011-2012,2012,8,Miami Heat,0.5,East,250
+23,"Jan 3, 2012",2007,6-9,Kevin Durant,SF,2011-2012,2012,4,Oklahoma City Thunder,0.5,West,240
+29,"Jan 3, 2011",2003,6-4,Dwyane Wade,SG,2010-2011,2011,7,Miami Heat,0.5,East,220
+34,"Jan 3, 2011",1997,6-3,Chauncey Billups,G,2010-2011,2011,13,Denver Nuggets,0.5,West,210
+27,"Jan 3, 2000",1993,6-9,Chris Webber,F-C,1999-2000,2000,6,Sacramento Kings,1,NA,245
+27,"Jan 3, 1993",1987,7-1,David Robinson,C,1992-1993,1993,3,San Antonio Spurs,1,NA,250
+24,"Jan 3, 1988",1985,6-9,Karl Malone,PF,1987-1988,1988,2,Utah Jazz,1,NA,265
+26,"Jan 29, 2018",2012,203cm,Khris Middleton,SF,2017-2018,2018,5,Milwaukee Bucks,0.5,East,106kg
+29,"Jan 29, 2018",2009,191cm,Stephen Curry,G,2017-2018,2018,8,Golden State Warriors,0.5,West,86kg
+32,"Jan 29, 1995",1984,6-1,John Stockton,PG,1994-1995,1995,10,Utah Jazz,1,NA,170
+29,"Jan 29, 1989",1981,6-10,Tom Chambers,PF,1988-1989,1989,7,Phoenix Suns,1,NA,220
+20,"Jan 28, 2013",2011,6-3,Kyrie Irving,G,2012-2013,2013,1,Cleveland Cavaliers,0.5,East,193
+30,"Jan 28, 2013",2001,6-2,Tony Parker,G,2012-2013,2013,11,San Antonio Spurs,0.5,West,185
+23,"Jan 28, 2007",2004,6-3,Ben Gordon,SG,2006-2007,2007,2,Chicago Bulls,0.5,East,200
+33,"Jan 28, 2007",1996,6-3,Steve Nash,G,2006-2007,2007,10,Phoenix Suns,0.5,West,178
+24,"Jan 28, 2001",1997,6-11,Tim Duncan,FC,2000-2001,2001,3,San Antonio Spurs,1,NA,250
+30,"Jan 28, 1996",1987,6-7,Reggie Miller,SG,1995-1996,1996,8,Indiana Pacers,1,NA,185
+26,"Jan 28, 1990",1985,6-9,Karl Malone,PF,1989-1990,1990,4,Utah Jazz,1,NA,265
+29,"Jan 27, 2014",2006,6-8,Paul Millsap,FC,2013-2014,2014,7,Atlanta Hawks,0.5,East,246
+25,"Jan 27, 2014",2007,6-9,Kevin Durant,SF,2013-2014,2014,6,Oklahoma City Thunder,0.5,West,240
+28,"Jan 27, 2008",2000,6-10,Hedo Turkoglu,F,2007-2008,2008,7,Orlando Magic,0.5,East,220
+23,"Jan 27, 2008",2004,6-10,Al Jefferson,FC,2007-2008,2008,3,Minnesota Timberwolves,0.5,West,289
+26,"Jan 27, 2002",1996,6-0,Allen Iverson,G,2001-2002,2002,5,Philadelphia Sixers,0.5,East,165
+23,"Jan 27, 2002",1998,7-0,Dirk Nowitzki,PF,2001-2002,2002,3,Dallas Mavericks,0.5,West,245
+28,"Jan 27, 1991",1985,5-10,Michael Adams,PG,1990-1991,1991,5,Denver Nuggets,1,NA,163
+32,"Jan 27, 1985",1974,6-11,Tom McMillen,PF,1984-1985,1985,9,Washington Bullets,1,NA,215
+30,"Jan 26, 2015",2003,6-8,LeBron James,F,2014-2015,2015,11,Cleveland Cavaliers,0.5,East,250
+25,"Jan 26, 2015",2011,6-7,Klay Thompson,G,2014-2015,2015,3,Golden State Warriors,0.5,West,215
+24,"Jan 26, 2009",2003,6-8,LeBron James,F,2008-2009,2009,5,Cleveland Cavaliers,0.5,East,250
+21,"Jan 26, 2009",2005,7-0,Andrew Bynum,C,2008-2009,2009,3,Los Angeles Lakers,0.5,West,285
+25,"Jan 26, 2003",1998,6-7,Paul Pierce,SF,2002-2003,2003,4,Boston Celtics,0.5,East,235
+26,"Jan 26, 2003",1997,6-11,Tim Duncan,FC,2002-2003,2003,5,San Antonio Spurs,0.5,West,250
+31,"Jan 26, 1997",1988,6-5,Mitch Richmond,SG,1996-1997,1997,8,Sacramento Kings,1,NA,215
+24,"Jan 26, 1992",1989,6-6,Nick Anderson,GF,1991-1992,1992,2,Orlando Magic,1,NA,228
+23,"Jan 26, 1986",1984,6-6,Charles Barkley,PF,1985-1986,1986,1,Philadelphia Sixers,1,NA,252
+25,"Jan 25, 2016",2011,6-1,Kemba Walker,G,2015-2016,2016,4,Charlotte Hornets,0.5,East,184
+25,"Jan 25, 2016",2010,6-11,DeMarcus Cousins,C,2015-2016,2016,5,Sacramento Kings,0.5,West,270
+25,"Jan 25, 2010",2003,6-8,LeBron James,F,2009-2010,2010,6,Cleveland Cavaliers,0.5,East,250
+33,"Jan 25, 2010",1997,6-3,Chauncey Billups,G,2009-2010,2010,12,Denver Nuggets,0.5,West,210
+22,"Jan 25, 2004",2002,6-9,Carlos Boozer,PF,2003-2004,2004,1,Cleveland Cavaliers,0.5,East,266
+27,"Jan 25, 2004",1995,6-11,Kevin Garnett,PF,2003-2004,2004,8,Minnesota Timberwolves,0.5,West,240
+30,"Jan 25, 1998",1990,6-10,Jayson Williams,FC,1997-1998,1998,7,New Jersey Nets,1,NA,245
+33,"Jan 25, 1987",1976,6-7,Alex English,SF,1986-1987,1987,10,Denver Nuggets,1,NA,190
+25,"Jan 24, 2011",2004,6-11,Dwight Howard,C,2010-2011,2011,6,Orlando Magic,0.5,East,265
+25,"Jan 24, 2011",2006,6-11,LaMarcus Aldridge,FC,2010-2011,2011,4,Portland Trail Blazers,0.5,West,260
+23,"Jan 24, 2000",1999,6-3,Steve Francis,G,1999-2000,2000,0,Houston Rockets,1,NA,195
+30,"Jan 24, 1993",1985,7-0,Patrick Ewing,C,1992-1993,1993,7,New York Knicks,1,NA,240
+25,"Jan 24, 1988",1984,6-6,Michael Jordan,SG,1987-1988,1988,3,Chicago Bulls,1,NA,215
+22,"Jan 23, 2017",2014,213cm,Joel Embiid,C,2016-2017,2017,2,Philadelphia Sixers,0.5,East,113kg
+25,"Jan 23, 2017",2011,201cm,Kawhi Leonard,F,2016-2017,2017,5,San Antonio Spurs,0.5,West,104kg
+26,"Jan 23, 2012",2004,6-11,Dwight Howard,C,2011-2012,2012,7,Orlando Magic,0.5,East,265
+27,"Jan 23, 2012",2007,7-1,Marc Gasol,C,2011-2012,2012,3,Memphis Grizzlies,0.5,West,255
+20,"Jan 23, 2005",2003,6-8,LeBron James,F,2004-2005,2005,1,Cleveland Cavaliers,0.5,East,250
+27,"Jan 23, 2005",1999,6-2,Jason Terry,G,2004-2005,2005,5,Dallas Mavericks,0.5,West,185
+23,"Jan 23, 1994",1991,6-0,Kenny Anderson,PG,1993-1994,1994,2,New Jersey Nets,1,NA,168
+23,"Jan 22, 2018",2014,213cm,Joel Embiid,C,2017-2018,2018,3,Philadelphia Sixers,0.5,East,113kg
+27,"Jan 22, 2018",2012,191cm,Damian Lillard,G,2017-2018,2018,5,Portland Trail Blazers,0.5,West,88kg
+28,"Jan 22, 2006",1999,6-7,Richard Hamilton,SG,2005-2006,2006,6,Detroit Pistons,0.5,East,193
+27,"Jan 22, 2006",1996,6-6,Kobe Bryant,SG,2005-2006,2006,9,Los Angeles Lakers,0.5,West,212
+28,"Jan 22, 2001",1993,6-9,Chris Webber,F-C,2000-2001,2001,7,Sacramento Kings,1,NA,245
+32,"Jan 22, 1995",1985,7-0,Patrick Ewing,C,1994-1995,1995,9,New York Knicks,1,NA,240
+25,"Jan 22, 1989",1985,6-7,Chris Mullin,SF,1988-1989,1989,3,Golden State Warriors,1,NA,215
+31,"Jan 21, 2013",2002,6-9,Carlos Boozer,PF,2012-2013,2013,10,Chicago Bulls,0.5,East,266
+24,"Jan 21, 2013",2007,6-9,Kevin Durant,SF,2012-2013,2013,5,Oklahoma City Thunder,0.5,West,240
+26,"Jan 21, 2007",2002,6-7,Caron Butler,SF,2006-2007,2007,4,Washington Wizards,0.5,East,228
+33,"Jan 21, 2007",1996,6-3,Steve Nash,G,2006-2007,2007,10,Phoenix Suns,0.5,West,178
+33,"Jan 21, 1996",1984,6-6,Michael Jordan,SG,1995-1996,1996,10,Chicago Bulls,1,NA,215
+27,"Jan 21, 1990",1984,6-3,Alvin Robertson,SG,1989-1990,1990,5,Milwaukee Bucks,1,NA,185
+23,"Jan 20, 2014",2010,6-9,Paul George,GF,2013-2014,2014,3,Indiana Pacers,0.5,East,220
+25,"Jan 20, 2014",2007,6-9,Kevin Durant,SF,2013-2014,2014,6,Oklahoma City Thunder,0.5,West,240
+25,"Jan 20, 2008",2001,6-7,Gerald Wallace,F,2007-2008,2008,6,Charlotte Bobcats,0.5,East,220
+28,"Jan 20, 2008",1999,6-3,Baron Davis,G,2007-2008,2008,8,Golden State Warriors,0.5,West,215
+26,"Jan 20, 2002",1996,6-0,Allen Iverson,G,2001-2002,2002,5,Philadelphia Sixers,0.5,East,165
+23,"Jan 20, 2002",1996,6-6,Kobe Bryant,SG,2001-2002,2002,5,Los Angeles Lakers,0.5,West,212
+24,"Jan 20, 1991",1989,6-0,Tim Hardaway,PG,1990-1991,1991,1,Golden State Warriors,1,NA,175
+22,"Jan 20, 1985",1984,6-6,Michael Jordan,SG,1984-1985,1985,0,Chicago Bulls,1,NA,215
+24,"Jan 2, 2018",2012,196cm,Bradley Beal,SG,2017-2018,2018,5,Washington Wizards,0.5,East,94kg
+31,"Jan 2, 2018",2005,185cm,Lou Williams,G,2017-2018,2018,12,Los Angeles Clippers,0.5,West,79kg
+31,"Jan 2, 2018",2005,185cm,Lou Williams,G,2017-2018,2018,12,Los Angeles Clippers,0.5,West,79kg
+26,"Jan 2, 2017",2010,193cm,John Wall,PG,2016-2017,2017,6,Washington Wizards,0.5,East,95kg
+27,"Jan 2, 2017",2009,196cm,James Harden,SG,2016-2017,2017,7,Houston Rockets,0.5,West,100kg
+28,"Jan 2, 2005",1996,6-2,Stephon Marbury,G,2004-2005,2005,8,New York Knicks,0.5,East,180
+24,"Jan 2, 2005",2001,7-0,Pau Gasol,FC,2004-2005,2005,3,Memphis Grizzlies,0.5,West,250
+23,"Jan 2, 1994",1992,6-9,Oliver Miller,C,1993-1994,1994,1,Phoenix Suns,1,NA,280
+28,"Jan 19, 2015",2007,6-10,Al Horford,FC,2014-2015,2015,7,Atlanta Hawks,0.5,East,245
+32,"Jan 19, 2015",2003,6-1,Mo Williams,G,2014-2015,2015,11,Minnesota Timberwolves,0.5,West,198
+31,"Jan 19, 2010",1997,6-8,Stephen Jackson,GF,2009-2010,2010,12,Charlotte Bobcats,0.5,East,220
+25,"Jan 19, 2010",2003,6-8,Carmelo Anthony,F,2009-2010,2010,6,Denver Nuggets,0.5,West,240
+27,"Jan 19, 2009",2004,6-0,Jameer Nelson,G,2008-2009,2009,4,Orlando Magic,0.5,East,190
+23,"Jan 19, 2009",2005,6-0,Chris Paul,PG,2008-2009,2009,3,New Orleans Hornets,0.5,West,175
+23,"Jan 19, 2009",2005,6-0,Chris Paul,PG,2008-2009,2009,3,New Orleans Hornets,0.5,West,175
+26,"Jan 19, 2003",1996,6-9,Antoine Walker,F,2002-2003,2003,6,Boston Celtics,0.5,East,265
+26,"Jan 19, 2003",1999,6-3,Steve Francis,G,2002-2003,2003,3,Houston Rockets,0.5,West,195
+24,"Jan 19, 1997",1994,6-8,Grant Hill,SF,1996-1997,1997,2,Detroit Pistons,1,NA,225
+25,"Jan 19, 1992",1989,6-0,Tim Hardaway,PG,1991-1992,1992,2,Golden State Warriors,1,NA,175
+29,"Jan 19, 1986",1978,6-9,Larry Bird,SF,1985-1986,1986,6,Boston Celtics,1,NA,220
+25,"Jan 18, 2016",2010,6-4,John Wall,PG,2015-2016,2016,5,Washington Wizards,0.5,East,210
+27,"Jan 18, 2016",2007,6-9,Kevin Durant,SF,2015-2016,2016,8,Oklahoma City Thunder,0.5,West,240
+22,"Jan 18, 2011",2008,6-3,Derrick Rose,PG,2010-2011,2011,2,Chicago Bulls,0.5,East,190
+22,"Jan 18, 2011",2008,6-3,Russell Westbrook,G,2010-2011,2011,2,Oklahoma City Thunder,0.5,West,200
+27,"Jan 18, 2004",1996,6-2,Stephon Marbury,G,2003-2004,2004,7,New York Knicks,0.5,East,180
+30,"Jan 18, 2004",1995,6-7,Michael Finley,G-F,2003-2004,2004,8,Dallas Mavericks,0.5,West,225
+22,"Jan 18, 1998",1996,6-0,Allen Iverson,G,1997-1998,1998,1,Philadelphia Sixers,1,NA,165
+24,"Jan 18, 1987",1984,6-9,Otis Thorpe,PF,1986-1987,1987,2,Sacramento Kings,1,NA,225
+27,"Jan 17, 2000",1993,6-9,Chris Webber,F-C,1999-2000,2000,6,Sacramento Kings,1,NA,245
+30,"Jan 17, 1993",1984,7-0,Hakeem Olajuwon,C,1992-1993,1993,8,Houston Rockets,1,NA,255
+28,"Jan 17, 1988",1982,6-7,Dominique Wilkins,SF,1987-1988,1988,5,Atlanta Hawks,1,NA,200
+27,"Jan 16, 2017",2009,201cm,DeMar DeRozan,GF,2016-2017,2017,7,Toronto Raptors,0.5,East,100kg
+26,"Jan 16, 2017",2010,203cm,Gordon Hayward,GF,2016-2017,2017,6,Utah Jazz,0.5,West,102kg
+23,"Jan 16, 2012",2008,6-3,Derrick Rose,PG,2011-2012,2012,3,Chicago Bulls,0.5,East,190
+33,"Jan 16, 2012",1996,6-6,Kobe Bryant,SG,2011-2012,2012,15,Los Angeles Lakers,0.5,West,212
+26,"Jan 16, 2005",1998,6-5,Larry Hughes,G,2004-2005,2005,6,Washington Wizards,0.5,East,184
+25,"Jan 16, 2005",1997,6-8,Tracy McGrady,GF,2004-2005,2005,7,Houston Rockets,0.5,West,210
+31,"Jan 16, 1994",1985,7-0,Patrick Ewing,C,1993-1994,1994,8,New York Knicks,1,NA,240
+31,"Jan 15, 2018",2008,191cm,Goran Dragic,G,2017-2018,2018,9,Miami Heat,0.5,East,86kg
+31,"Jan 15, 2018",2005,185cm,Lou Williams,G,2017-2018,2018,12,Los Angeles Clippers,0.5,West,79kg
+31,"Jan 15, 2018",2005,185cm,Lou Williams,G,2017-2018,2018,12,Los Angeles Clippers,0.5,West,79kg
+30,"Jan 15, 2006",1996,6-0,Allen Iverson,G,2005-2006,2006,9,Philadelphia Sixers,0.5,East,165
+29,"Jan 15, 2006",1995,6-11,Kevin Garnett,PF,2005-2006,2006,10,Minnesota Timberwolves,0.5,West,240
+25,"Jan 15, 1995",1991,6-6,Larry Johnson,F,1994-1995,1995,3,Charlotte Hornets,1,NA,250
+26,"Jan 15, 1989",1984,6-6,Michael Jordan,SG,1988-1989,1989,4,Chicago Bulls,1,NA,215
+23,"Jan 14, 2013",2009,6-1,Brandon Jennings,G,2012-2013,2013,3,Milwaukee Bucks,0.5,East,170
+24,"Jan 14, 2013",2007,6-9,Kevin Durant,SF,2012-2013,2013,5,Oklahoma City Thunder,0.5,West,240
+25,"Jan 14, 2007",2003,6-4,Dwyane Wade,SG,2006-2007,2007,3,Miami Heat,0.5,East,220
+28,"Jan 14, 2007",1998,7-0,Dirk Nowitzki,PF,2006-2007,2007,8,Dallas Mavericks,0.5,West,245
+24,"Jan 14, 2001",1999,6-3,Steve Francis,G,2000-2001,2001,1,Houston Rockets,1,NA,195
+30,"Jan 14, 1996",1987,7-1,David Robinson,C,1995-1996,1996,6,San Antonio Spurs,1,NA,250
+26,"Jan 14, 1990",1986,6-6,Ron Harper,SG,1989-1990,1990,3,Los Angeles Clippers,1,NA,185
+26,"Jan 14, 1990",1986,6-6,Ron Harper,SG,1989-1990,1990,3,Los Angeles Clippers,1,NA,185
+29,"Jan 13, 2014",2003,6-8,Carmelo Anthony,F,2013-2014,2014,10,New York Knicks,0.5,East,240
+23,"Jan 13, 2014",2010,6-11,DeMarcus Cousins,C,2013-2014,2014,3,Sacramento Kings,0.5,West,270
+23,"Jan 13, 2008",2003,6-11,Chris Bosh,PF,2007-2008,2008,4,Toronto Raptors,0.5,East,235
+29,"Jan 13, 2008",1996,6-6,Kobe Bryant,SG,2007-2008,2008,11,Los Angeles Lakers,0.5,West,212
+26,"Jan 13, 2002",1996,6-5,Ray Allen,SG,2001-2002,2002,5,Milwaukee Bucks,0.5,East,205
+25,"Jan 13, 2002",1995,6-11,Kevin Garnett,PF,2001-2002,2002,6,Minnesota Timberwolves,0.5,West,240
+34,"Jan 13, 1991",1977,6-7,Bernard King,SF,1990-1991,1991,13,Washington Bullets,1,NA,205
+31,"Jan 13, 1985",1975,6-2,World B. Free,G,1984-1985,1985,9,Cleveland Cavaliers,1,NA,185
+24,"Jan 12, 2015",2011,6-1,Kemba Walker,G,2014-2015,2015,3,Charlotte Hornets,0.5,East,184
+25,"Jan 12, 2015",2011,6-7,Klay Thompson,G,2014-2015,2015,3,Golden State Warriors,0.5,West,215
+23,"Jan 12, 2009",2004,6-11,Dwight Howard,C,2008-2009,2009,4,Orlando Magic,0.5,East,265
+30,"Jan 12, 2009",1996,6-6,Kobe Bryant,SG,2008-2009,2009,12,Los Angeles Lakers,0.5,West,212
+24,"Jan 12, 2003",1996,6-11,Jermaine O'Neal,FC,2002-2003,2003,6,Indiana Pacers,0.5,East,235
+24,"Jan 12, 2003",1996,6-6,Kobe Bryant,SG,2002-2003,2003,6,Los Angeles Lakers,0.5,West,212
+26,"Jan 12, 2003",1996,6-2,Stephon Marbury,G,2002-2003,2003,6,Phoenix Suns,0.5,West,180
+24,"Jan 12, 1997",1994,6-7,Glenn Robinson,SF,1996-1997,1997,2,Milwaukee Bucks,1,NA,225
+29,"Jan 12, 1992",1984,6-6,Michael Jordan,SG,1991-1992,1992,7,Chicago Bulls,1,NA,215
+29,"Jan 12, 1986",1979,6-6,Calvin Natt,F,1985-1986,1986,6,Denver Nuggets,1,NA,220
+31,"Jan 11, 2016",2003,6-8,LeBron James,F,2015-2016,2016,12,Cleveland Cavaliers,0.5,East,250
+30,"Jan 11, 2016",2005,6-0,Chris Paul,PG,2015-2016,2016,10,Los Angeles Clippers,0.5,West,175
+30,"Jan 11, 2016",2005,6-0,Chris Paul,PG,2015-2016,2016,10,Los Angeles Clippers,0.5,West,175
+25,"Jan 11, 2010",2003,6-8,LeBron James,F,2009-2010,2010,6,Cleveland Cavaliers,0.5,East,250
+27,"Jan 11, 2010",2003,7-0,Chris Kaman,C,2009-2010,2010,6,Los Angeles Clippers,0.5,East,265
+27,"Jan 11, 2010",2003,7-0,Chris Kaman,C,2009-2010,2010,6,Los Angeles Clippers,0.5,East,265
+26,"Jan 11, 2004",1998,6-7,Paul Pierce,SF,2003-2004,2004,5,Boston Celtics,0.5,East,235
+28,"Jan 11, 2004",1996,6-5,Ray Allen,SG,2003-2004,2004,7,Seattle SuperSonics,0.5,West,205
+28,"Jan 11, 1998",1991,6-7,Steve Smith,SG,1997-1998,1998,6,Atlanta Hawks,1,NA,200
+25,"Jan 11, 1987",1981,6-1,Isiah Thomas,PG,1986-1987,1987,5,Detroit Pistons,1,NA,180
+26,"Jan 10, 2011",2003,6-8,LeBron James,F,2010-2011,2011,7,Miami Heat,0.5,East,250
+29,"Jan 10, 2011",2001,6-9,Zach Randolph,PF,2010-2011,2011,9,Memphis Grizzlies,0.5,West,260
+27,"Jan 10, 2000",1994,6-8,Grant Hill,SF,1999-2000,2000,5,Detroit Pistons,1,NA,225
+23,"Jan 10, 1993",1989,6-10,Shawn Kemp,C,1992-1993,1993,3,Seattle SuperSonics,1,NA,280
+26,"Jan 10, 1988",1983,6-3,Byron Scott,SG,1987-1988,1988,4,Los Angeles Lakers,1,NA,195
+24,"Jan 1, 2006",2003,6-4,Dwyane Wade,SG,2005-2006,2006,2,Miami Heat,0.5,East,220
+27,"Jan 1, 2006",1999,6-7,Shawn Marion,F,2005-2006,2006,6,Phoenix Suns,0.5,West,228
+32,"Jan 1, 1995",1984,7-0,Hakeem Olajuwon,C,1994-1995,1995,10,Houston Rockets,1,NA,255
+29,"Jan 1, 1989",1979,6-9,Magic Johnson,PG,1988-1989,1989,9,Los Angeles Lakers,1,NA,255
+20,"Feb 9, 2015",2013,6-11,Giannis Antetokounmpo,F,2014-2015,2015,1,Milwaukee Bucks,0.5,East,222
+26,"Feb 9, 2015",2008,6-3,Russell Westbrook,G,2014-2015,2015,6,Oklahoma City Thunder,0.5,West,200
+24,"Feb 9, 2009",2003,6-8,LeBron James,F,2008-2009,2009,5,Cleveland Cavaliers,0.5,East,250
+28,"Feb 9, 2009",2001,7-0,Pau Gasol,FC,2008-2009,2009,7,Los Angeles Lakers,0.5,West,250
+27,"Feb 8, 2016",2011,5-9,Isaiah Thomas,PG,2015-2016,2016,4,Boston Celtics,0.5,East,185
+30,"Feb 8, 2016",2006,6-11,LaMarcus Aldridge,FC,2015-2016,2016,9,San Antonio Spurs,0.5,West,260
+25,"Feb 8, 2010",2003,6-8,LeBron James,F,2009-2010,2010,6,Cleveland Cavaliers,0.5,East,250
+21,"Feb 8, 2010",2008,6-3,Russell Westbrook,G,2009-2010,2010,1,Oklahoma City Thunder,0.5,West,200
+26,"Feb 8, 2004",2000,6-9,Kenyon Martin,F,2003-2004,2004,3,New Jersey Nets,0.5,East,240
+27,"Feb 8, 2004",1997,6-11,Tim Duncan,FC,2003-2004,2004,6,San Antonio Spurs,0.5,West,250
+26,"Feb 7, 2011",2003,6-8,LeBron James,F,2010-2011,2011,7,Miami Heat,0.5,East,250
+22,"Feb 7, 2011",2007,6-9,Kevin Durant,SF,2010-2011,2011,3,Oklahoma City Thunder,0.5,West,240
+26,"Feb 7, 2000",1995,6-7,Michael Finley,G-F,1999-2000,2000,4,Dallas Mavericks,1,NA,225
+32,"Feb 7, 1999",1991,7-2,Dikembe Mutombo,C,1998-1999,1999,7,Atlanta Hawks,1,NA,260
+25,"Feb 7, 1993",1989,6-6,Nick Anderson,GF,1992-1993,1993,3,Orlando Magic,1,NA,228
+28,"Feb 6, 2017",2011,175cm,Isaiah Thomas,PG,2016-2017,2017,5,Boston Celtics,0.5,East,84kg
+28,"Feb 6, 2017",2009,191cm,Stephen Curry,G,2016-2017,2017,7,Golden State Warriors,0.5,West,86kg
+34,"Feb 6, 2012",1998,6-7,Paul Pierce,SF,2011-2012,2012,13,Boston Celtics,0.5,East,235
+29,"Feb 6, 2012",2001,6-2,Tony Parker,G,2011-2012,2012,10,San Antonio Spurs,0.5,West,185
+21,"Feb 6, 2006",2003,6-11,Chris Bosh,PF,2005-2006,2006,2,Toronto Raptors,0.5,East,235
+20,"Feb 6, 2006",2005,6-0,Chris Paul,PG,2005-2006,2006,0,New Orleans Hornets,0.5,West,175
+20,"Feb 6, 2006",2005,6-0,Chris Paul,PG,2005-2006,2006,0,New Orleans Hornets,0.5,West,175
+27,"Feb 6, 2005",1998,6-7,Paul Pierce,SF,2004-2005,2005,6,Boston Celtics,0.5,East,235
+25,"Feb 6, 2005",1997,6-8,Tracy McGrady,GF,2004-2005,2005,7,Houston Rockets,0.5,West,210
+28,"Feb 6, 1994",1987,7-1,David Robinson,C,1993-1994,1994,4,San Antonio Spurs,1,NA,250
+24,"Feb 5, 2018",2012,211cm,Andre Drummond,C,2017-2018,2018,5,Detroit Pistons,0.5,East,127kg
+28,"Feb 5, 2018",2009,196cm,James Harden,SG,2017-2018,2018,8,Houston Rockets,0.5,West,100kg
+32,"Feb 5, 1995",1984,7-0,Hakeem Olajuwon,C,1994-1995,1995,10,Houston Rockets,1,NA,255
+25,"Feb 5, 1989",1986,6-6,Ron Harper,SG,1988-1989,1989,2,Cleveland Cavaliers,1,NA,185
+28,"Feb 4, 2013",2005,5-9,Nate Robinson,G,2012-2013,2013,7,Chicago Bulls,0.5,East,180
+29,"Feb 4, 2013",2005,6-9,David Lee,FC,2012-2013,2013,7,Golden State Warriors,0.5,West,245
+25,"Feb 4, 2007",2003,6-4,Dwyane Wade,SG,2006-2007,2007,3,Miami Heat,0.5,East,220
+27,"Feb 4, 2007",2001,6-11,Mehmet Okur,FC,2006-2007,2007,4,Utah Jazz,0.5,West,249
+32,"Feb 4, 2001",1991,6-0,Darrell Armstrong,PG,2000-2001,2001,6,Orlando Magic,1,NA,170
+22,"Feb 4, 1996",1994,6-4,Jason Kidd,PG,1995-1996,1996,1,Dallas Mavericks,1,NA,210
+23,"Feb 4, 1990",1989,6-0,Tim Hardaway,PG,1989-1990,1990,0,Golden State Warriors,1,NA,175
+27,"Feb 3, 2014",2006,6-1,Kyle Lowry,PG,2013-2014,2014,7,Toronto Raptors,0.5,East,196
+27,"Feb 3, 2014",2008,6-3,Goran Dragic,G,2013-2014,2014,5,Phoenix Suns,0.5,West,190
+28,"Feb 3, 2008",2000,6-10,Hedo Turkoglu,F,2007-2008,2008,7,Orlando Magic,0.5,East,220
+31,"Feb 3, 2008",1998,7-0,Brad Miller,C,2007-2008,2008,9,Sacramento Kings,0.5,West,261
+28,"Feb 3, 2002",1994,6-4,Jason Kidd,PG,2001-2002,2002,7,New Jersey Nets,0.5,East,210
+29,"Feb 3, 2002",1992,7-1,Shaquille O'Neal,C,2001-2002,2002,9,Los Angeles Lakers,0.5,West,325
+28,"Feb 3, 1991",1984,6-9,Otis Thorpe,PF,1990-1991,1991,6,Houston Rockets,1,NA,225
+25,"Feb 3, 1985",1982,6-7,Dominique Wilkins,SF,1984-1985,1985,2,Atlanta Hawks,1,NA,200
+29,"Feb 29, 2016",2006,6-1,Kyle Lowry,PG,2015-2016,2016,9,Toronto Raptors,0.5,East,196
+27,"Feb 29, 2016",2009,6-3,Stephen Curry,G,2015-2016,2016,6,Golden State Warriors,0.5,West,190
+29,"Feb 29, 2004",1996,6-9,Ben Wallace,FC,2003-2004,2004,7,Detroit Pistons,0.5,East,240
+23,"Feb 29, 2004",1999,6-9,Andrei Kirilenko,PF,2003-2004,2004,2,Utah Jazz,0.5,West,235
+25,"Feb 28, 2011",2004,6-11,Dwight Howard,C,2010-2011,2011,6,Orlando Magic,0.5,East,265
+28,"Feb 28, 2011",2004,6-7,Kevin Martin,SG,2010-2011,2011,6,Houston Rockets,0.5,West,199
+23,"Feb 28, 2000",1998,6-6,Vince Carter,SF,1999-2000,2000,1,Toronto Raptors,1,NA,220
+24,"Feb 28, 1999",1995,6-9,Antonio McDyess,F,1998-1999,1999,3,Denver Nuggets,1,NA,245
+30,"Feb 28, 1993",1984,7-0,Hakeem Olajuwon,C,1992-1993,1993,8,Houston Rockets,1,NA,255
+23,"Feb 28, 1988",1986,6-11,Roy Tarpley,PF,1987-1988,1988,1,Dallas Mavericks,1,NA,230
+24,"Feb 27, 2006",2001,6-3,Gilbert Arenas,G,2005-2006,2006,4,Washington Wizards,0.5,East,191
+25,"Feb 27, 2006",2002,7-6,Yao Ming,C,2005-2006,2006,3,Houston Rockets,0.5,West,310
+32,"Feb 27, 2005",1994,6-8,Jalen Rose,G,2004-2005,2005,10,Toronto Raptors,0.5,East,210
+26,"Feb 27, 2005",1998,6-2,Mike Bibby,G,2004-2005,2005,6,Sacramento Kings,0.5,West,195
+24,"Feb 27, 1994",1989,6-10,Shawn Kemp,C,1993-1994,1994,4,Seattle SuperSonics,1,NA,280
+28,"Feb 26, 1995",1988,6-3,Rod Strickland,PG,1994-1995,1995,6,Portland Trail Blazers,1,NA,175
+26,"Feb 26, 1989",1985,7-0,Patrick Ewing,C,1988-1989,1989,3,New York Knicks,1,NA,240
+28,"Feb 25, 2013",2003,6-8,LeBron James,F,2012-2013,2013,9,Miami Heat,0.5,East,250
+34,"Feb 25, 2013",1996,6-6,Kobe Bryant,SG,2012-2013,2013,16,Los Angeles Lakers,0.5,West,212
+30,"Feb 25, 2007",1998,6-6,Vince Carter,SF,2006-2007,2007,8,New Jersey Nets,0.5,East,220
+24,"Feb 25, 2007",2002,6-10,Amar'e Stoudemire,FC,2006-2007,2007,4,Phoenix Suns,0.5,West,245
+22,"Feb 25, 2001",1999,6-7,Shawn Marion,F,2000-2001,2001,1,Phoenix Suns,1,NA,228
+26,"Feb 25, 1996",1989,6-10,Shawn Kemp,C,1995-1996,1996,6,Seattle SuperSonics,1,NA,280
+24,"Feb 25, 1990",1987,7-1,David Robinson,C,1989-1990,1990,0,San Antonio Spurs,1,NA,250
+23,"Feb 24, 2014",2011,6-1,Kemba Walker,G,2013-2014,2014,2,Charlotte Bobcats,0.5,East,184
+25,"Feb 24, 2014",2008,6-10,Kevin Love,FC,2013-2014,2014,5,Minnesota Timberwolves,0.5,West,251
+23,"Feb 24, 2008",2003,6-8,LeBron James,F,2007-2008,2008,4,Cleveland Cavaliers,0.5,East,250
+30,"Feb 24, 2008",1999,6-6,Manu Ginobili,SG,2007-2008,2008,5,San Antonio Spurs,0.5,West,205
+27,"Feb 24, 2002",1996,6-9,Ben Wallace,FC,2001-2002,2002,5,Detroit Pistons,0.5,East,240
+29,"Feb 24, 2002",1992,7-1,Shaquille O'Neal,C,2001-2002,2002,9,Los Angeles Lakers,0.5,West,325
+25,"Feb 24, 1991",1987,6-7,Reggie Miller,SG,1990-1991,1991,3,Indiana Pacers,1,NA,185
+25,"Feb 24, 1985",1981,6-6,Mark Aguirre,SF,1984-1985,1985,3,Dallas Mavericks,1,NA,232
+23,"Feb 23, 2009",2004,6-11,Dwight Howard,C,2008-2009,2009,4,Orlando Magic,0.5,East,265
+28,"Feb 23, 2009",2001,7-0,Pau Gasol,FC,2008-2009,2009,7,Los Angeles Lakers,0.5,West,250
+23,"Feb 23, 2003",1997,6-8,Tracy McGrady,GF,2002-2003,2003,5,Orlando Magic,0.5,East,210
+24,"Feb 23, 2003",1996,6-6,Kobe Bryant,SG,2002-2003,2003,6,Los Angeles Lakers,0.5,West,212
+31,"Feb 23, 1997",1987,6-8,Scottie Pippen,SF,1996-1997,1997,9,Chicago Bulls,1,NA,228
+25,"Feb 23, 1992",1989,6-0,Tim Hardaway,PG,1991-1992,1992,2,Golden State Warriors,1,NA,175
+28,"Feb 23, 1986",1979,6-3,Sidney Moncrief,SG,1985-1986,1986,6,Milwaukee Bucks,1,NA,180
+24,"Feb 22, 2010",2004,6-11,Dwight Howard,C,2009-2010,2010,5,Orlando Magic,0.5,East,265
+28,"Feb 22, 2010",2002,6-9,Carlos Boozer,PF,2009-2010,2010,7,Utah Jazz,0.5,West,266
+22,"Feb 22, 2004",2003,6-4,Dwyane Wade,SG,2003-2004,2004,0,Miami Heat,0.5,East,220
+25,"Feb 22, 2004",1996,6-6,Kobe Bryant,SG,2003-2004,2004,7,Los Angeles Lakers,0.5,West,212
+27,"Feb 22, 2000",1992,7-1,Shaquille O'Neal,C,1999-2000,2000,7,Los Angeles Lakers,1,NA,325
+30,"Feb 22, 1998",1989,6-6,Nick Anderson,GF,1997-1998,1998,8,Orlando Magic,1,NA,228
+31,"Feb 22, 1987",1976,6-10,Moses Malone,C,1986-1987,1987,10,Washington Bullets,1,NA,215
+22,"Feb 21, 1999",1996,6-2,Stephon Marbury,G,1998-1999,1999,2,Minnesota Timberwolves,1,NA,180
+25,"Feb 21, 1988",1984,6-1,John Stockton,PG,1987-1988,1988,3,Utah Jazz,1,NA,170
+27,"Feb 20, 2012",2003,6-8,LeBron James,F,2011-2012,2012,8,Miami Heat,0.5,East,250
+23,"Feb 20, 2012",2007,6-9,Kevin Durant,SF,2011-2012,2012,4,Oklahoma City Thunder,0.5,West,240
+28,"Feb 20, 1994",1987,7-1,David Robinson,C,1993-1994,1994,4,San Antonio Spurs,1,NA,250
+22,"Feb 2, 2015",2011,6-3,Kyrie Irving,G,2014-2015,2015,3,Cleveland Cavaliers,0.5,East,193
+33,"Feb 2, 2015",2001,6-9,Zach Randolph,PF,2014-2015,2015,13,Memphis Grizzlies,0.5,West,260
+25,"Feb 2, 2009",2005,6-9,David Lee,FC,2008-2009,2009,3,New York Knicks,0.5,East,245
+26,"Feb 2, 2009",2001,6-2,Tony Parker,G,2008-2009,2009,7,San Antonio Spurs,0.5,West,185
+26,"Feb 2, 2003",1997,6-3,Chauncey Billups,G,2002-2003,2003,5,Detroit Pistons,0.5,East,210
+24,"Feb 2, 2003",1996,6-6,Kobe Bryant,SG,2002-2003,2003,6,Los Angeles Lakers,0.5,West,212
+29,"Feb 2, 1997",1989,6-8,Glen Rice,SF,1996-1997,1997,7,Charlotte Hornets,1,NA,228
+33,"Feb 2, 1992",1981,6-10,Larry Nance,PF,1991-1992,1992,10,Cleveland Cavaliers,1,NA,205
+32,"Feb 2, 1986",1976,6-7,Alex English,SF,1985-1986,1986,9,Denver Nuggets,1,NA,190
+32,"Feb 19, 1995",1984,6-6,Charles Barkley,PF,1994-1995,1995,10,Phoenix Suns,1,NA,252
+26,"Feb 19, 1989",1984,7-0,Hakeem Olajuwon,C,1988-1989,1989,4,Houston Rockets,1,NA,255
+25,"Feb 18, 2001",1996,6-0,Allen Iverson,G,2000-2001,2001,4,Philadelphia Sixers,1,NA,165
+31,"Feb 18, 1996",1987,6-9,Armen Gilliam,PF,1995-1996,1996,8,New Jersey Nets,1,NA,230
+30,"Feb 18, 1990",1981,6-10,Tom Chambers,PF,1989-1990,1990,8,Phoenix Suns,1,NA,220
+25,"Feb 17, 2002",1999,6-3,Andre Miller,PG,2001-2002,2002,2,Cleveland Cavaliers,0.5,East,200
+38,"Feb 17, 2002",1985,6-9,Karl Malone,PF,2001-2002,2002,16,Utah Jazz,0.5,West,265
+22,"Feb 17, 1991",1990,6-7,Lionel Simmons,SF,1990-1991,1991,0,Sacramento Kings,1,NA,210
+25,"Feb 17, 1985",1979,6-9,Magic Johnson,PG,1984-1985,1985,5,Los Angeles Lakers,1,NA,255
+31,"Feb 16, 2003",1993,6-6,Allan Houston,G,2002-2003,2003,9,New York Knicks,0.5,East,205
+26,"Feb 16, 2003",1997,6-11,Tim Duncan,FC,2002-2003,2003,5,San Antonio Spurs,0.5,West,250
+27,"Feb 16, 1997",1992,6-10,Alonzo Mourning,C,1996-1997,1997,4,Miami Heat,1,NA,240
+29,"Feb 16, 1992",1984,6-1,John Stockton,PG,1991-1992,1992,7,Utah Jazz,1,NA,170
+29,"Feb 16, 1986",1978,6-9,Larry Bird,SF,1985-1986,1986,6,Boston Celtics,1,NA,220
+34,"Feb 15, 1998",1985,6-9,Karl Malone,PF,1997-1998,1998,12,Utah Jazz,1,NA,265
+27,"Feb 15, 1987",1979,6-9,Magic Johnson,PG,1986-1987,1987,7,Los Angeles Lakers,1,NA,255
+25,"Feb 14, 2011",2004,6-11,Dwight Howard,C,2010-2011,2011,6,Orlando Magic,0.5,East,265
+25,"Feb 14, 2011",2006,6-11,LaMarcus Aldridge,FC,2010-2011,2011,4,Portland Trail Blazers,0.5,West,260
+30,"Feb 14, 1999",1990,6-4,Gary Payton,G,1998-1999,1999,8,Seattle SuperSonics,1,NA,180
+23,"Feb 14, 1993",1991,6-6,Larry Johnson,F,1992-1993,1993,1,Charlotte Hornets,1,NA,250
+28,"Feb 14, 1988",1982,6-7,Dominique Wilkins,SF,1987-1988,1988,5,Atlanta Hawks,1,NA,200
+32,"Feb 13, 2017",2003,203cm,LeBron James,F,2016-2017,2017,13,Cleveland Cavaliers,0.5,East,113kg
+27,"Feb 13, 2017",2009,208cm,Blake Griffin,PF,2016-2017,2017,7,Los Angeles Clippers,0.5,West,114kg
+27,"Feb 13, 2017",2009,208cm,Blake Griffin,PF,2016-2017,2017,7,Los Angeles Clippers,0.5,West,114kg
+23,"Feb 13, 2012",2010,6-3,Jeremy Lin,G,2011-2012,2012,1,New York Knicks,0.5,East,200
+23,"Feb 13, 2012",2008,6-3,Russell Westbrook,G,2011-2012,2012,3,Oklahoma City Thunder,0.5,West,200
+24,"Feb 13, 2006",2001,6-3,Gilbert Arenas,G,2005-2006,2006,4,Washington Wizards,0.5,East,191
+23,"Feb 13, 2006",2001,6-2,Tony Parker,G,2005-2006,2006,4,San Antonio Spurs,0.5,West,185
+29,"Feb 13, 2005",1996,6-0,Allen Iverson,G,2004-2005,2005,8,Philadelphia Sixers,0.5,East,165
+31,"Feb 13, 2005",1996,6-3,Steve Nash,G,2004-2005,2005,8,Phoenix Suns,0.5,West,178
+23,"Feb 12, 2018",2014,213cm,Joel Embiid,C,2017-2018,2018,3,Philadelphia Sixers,0.5,East,113kg
+28,"Feb 12, 2018",2009,196cm,James Harden,SG,2017-2018,2018,8,Houston Rockets,0.5,West,100kg
+28,"Feb 11, 2013",2003,6-8,LeBron James,F,2012-2013,2013,9,Miami Heat,0.5,East,250
+24,"Feb 11, 2013",2008,6-3,Russell Westbrook,G,2012-2013,2013,4,Oklahoma City Thunder,0.5,West,200
+25,"Feb 11, 2007",2003,6-4,Dwyane Wade,SG,2006-2007,2007,3,Miami Heat,0.5,East,220
+22,"Feb 11, 2007",2003,6-8,Carmelo Anthony,F,2006-2007,2007,3,Denver Nuggets,0.5,West,240
+21,"Feb 10, 2014",2012,6-9,Jared Sullinger,C,2013-2014,2014,1,Boston Celtics,0.5,East,260
+25,"Feb 10, 2014",2007,6-9,Kevin Durant,SF,2013-2014,2014,6,Oklahoma City Thunder,0.5,West,240
+31,"Feb 10, 2008",1999,6-3,Andre Miller,PG,2007-2008,2008,8,Philadelphia Sixers,0.5,East,200
+25,"Feb 10, 2008",2002,6-10,Amar'e Stoudemire,FC,2007-2008,2008,5,Phoenix Suns,0.5,West,245
+34,"Feb 1, 2016",2003,6-4,Dwyane Wade,SG,2015-2016,2016,12,Miami Heat,0.5,East,220
+27,"Feb 1, 2016",2007,6-9,Kevin Durant,SF,2015-2016,2016,8,Oklahoma City Thunder,0.5,West,240
+25,"Feb 1, 2010",2003,6-11,Chris Bosh,PF,2009-2010,2010,6,Toronto Raptors,0.5,East,235
+21,"Feb 1, 2010",2007,6-9,Kevin Durant,SF,2009-2010,2010,2,Oklahoma City Thunder,0.5,West,240
+30,"Feb 1, 2004",1994,6-4,Jason Kidd,PG,2003-2004,2004,9,New Jersey Nets,0.5,East,210
+27,"Feb 1, 2004",1995,6-11,Kevin Garnett,PF,2003-2004,2004,8,Minnesota Timberwolves,0.5,West,240
+32,"Feb 1, 1998",1987,7-1,David Robinson,C,1997-1998,1998,8,San Antonio Spurs,1,NA,250
+26,"Feb 1, 1987",1982,6-3,Fat Lever,PG,1986-1987,1987,4,Denver Nuggets,1,NA,170
+25,"Dec 9, 2013",2010,6-5,Jordan Crawford,G,2013-2014,2014,3,Boston Celtics,0.5,East,195
+28,"Dec 9, 2013",2006,6-11,LaMarcus Aldridge,FC,2013-2014,2014,7,Portland Trail Blazers,0.5,West,260
+22,"Dec 9, 2007",2004,6-9,Josh Smith,PF,2007-2008,2008,3,Atlanta Hawks,0.5,East,225
+23,"Dec 9, 2007",2006,6-6,Brandon Roy,G,2007-2008,2008,1,Portland Trail Blazers,0.5,West,211
+25,"Dec 9, 2001",1999,6-3,Andre Miller,PG,2001-2002,2002,2,Cleveland Cavaliers,0.5,East,200
+22,"Dec 9, 2001",1999,6-9,Elton Brand,PF,2001-2002,2002,2,Los Angeles Clippers,0.5,West,254
+22,"Dec 9, 2001",1999,6-9,Elton Brand,PF,2001-2002,2002,2,Los Angeles Clippers,0.5,West,254
+28,"Dec 9, 1990",1984,6-1,John Stockton,PG,1990-1991,1991,6,Utah Jazz,1,NA,170
+25,"Dec 9, 1984",1981,6-9,Orlando Woolridge,PF,1984-1985,1985,3,Chicago Bulls,1,NA,215
+28,"Dec 8, 2014",2006,6-1,Kyle Lowry,PG,2014-2015,2015,8,Toronto Raptors,0.5,East,196
+29,"Dec 8, 2014",2006,6-11,LaMarcus Aldridge,FC,2014-2015,2015,8,Portland Trail Blazers,0.5,West,260
+27,"Dec 8, 2008",2003,6-4,Dwyane Wade,SG,2008-2009,2009,5,Miami Heat,0.5,East,220
+30,"Dec 8, 2008",1998,7-0,Dirk Nowitzki,PF,2008-2009,2009,10,Dallas Mavericks,0.5,West,245
+25,"Dec 8, 2002",1998,6-7,Paul Pierce,SF,2002-2003,2003,4,Boston Celtics,0.5,East,235
+24,"Dec 8, 2002",1996,6-6,Kobe Bryant,SG,2002-2003,2003,6,Los Angeles Lakers,0.5,West,212
+29,"Dec 8, 1996",1990,6-10,Terry Mills,PF,1996-1997,1997,6,Detroit Pistons,1,NA,230
+30,"Dec 8, 1991",1983,6-4,Jeff Malone,SG,1991-1992,1992,8,Utah Jazz,1,NA,205
+27,"Dec 8, 1985",1980,6-10,Jeff Ruland,C,1985-1986,1986,4,Washington Bullets,1,NA,240
+25,"Dec 7, 2015",2011,6-3,Reggie Jackson,G,2015-2016,2016,4,Detroit Pistons,0.5,East,208
+27,"Dec 7, 2015",2009,6-3,Stephen Curry,G,2015-2016,2016,6,Golden State Warriors,0.5,West,190
+33,"Dec 7, 2009",1995,6-11,Kevin Garnett,PF,2009-2010,2010,14,Boston Celtics,0.5,East,240
+28,"Dec 7, 2009",2002,6-9,Carlos Boozer,PF,2009-2010,2010,7,Utah Jazz,0.5,West,266
+27,"Dec 7, 2003",1998,6-6,Vince Carter,SF,2003-2004,2004,5,Toronto Raptors,0.5,East,220
+31,"Dec 7, 2003",1992,7-1,Shaquille O'Neal,C,2003-2004,2004,11,Los Angeles Lakers,0.5,West,325
+26,"Dec 7, 1997",1994,6-6,Wesley Person,SG,1997-1998,1998,3,Cleveland Cavaliers,1,NA,195
+27,"Dec 7, 1986",1981,6-10,Tom Chambers,PF,1986-1987,1987,5,Seattle SuperSonics,1,NA,220
+28,"Dec 6, 2010",2002,6-10,Amar'e Stoudemire,FC,2010-2011,2011,8,New York Knicks,0.5,East,245
+22,"Dec 6, 2010",2008,6-3,Russell Westbrook,G,2010-2011,2011,2,Oklahoma City Thunder,0.5,West,200
+28,"Dec 6, 1992",1986,6-5,Drazen Petrovic,SG,1992-1993,1993,3,New Jersey Nets,1,NA,200
+25,"Dec 6, 1987",1983,6-7,Clyde Drexler,SG,1987-1988,1988,4,Portland Trail Blazers,1,NA,210
+22,"Dec 5, 2016",2013,211cm,Giannis Antetokounmpo,F,2016-2017,2017,3,Milwaukee Bucks,0.5,East,101kg
+28,"Dec 5, 2016",2008,191cm,Russell Westbrook,G,2016-2017,2017,8,Oklahoma City Thunder,0.5,West,91kg
+24,"Dec 5, 2005",2003,6-4,Dwyane Wade,SG,2005-2006,2006,2,Miami Heat,0.5,East,220
+26,"Dec 5, 2005",1999,6-3,Baron Davis,G,2005-2006,2006,6,Golden State Warriors,0.5,West,215
+23,"Dec 5, 2004",2001,6-3,Gilbert Arenas,G,2004-2005,2005,3,Washington Wizards,0.5,East,191
+26,"Dec 5, 2004",1998,7-0,Dirk Nowitzki,PF,2004-2005,2005,6,Dallas Mavericks,0.5,West,245
+27,"Dec 5, 1999",1992,7-1,Shaquille O'Neal,C,1999-2000,2000,7,Los Angeles Lakers,1,NA,325
+28,"Dec 5, 1993",1987,7-1,David Robinson,C,1993-1994,1994,4,San Antonio Spurs,1,NA,250
+33,"Dec 4, 2017",2003,203cm,LeBron James,F,2017-2018,2018,14,Cleveland Cavaliers,0.5,East,113kg
+28,"Dec 4, 2017",2009,196cm,James Harden,SG,2017-2018,2018,8,Houston Rockets,0.5,West,100kg
+22,"Dec 4, 1994",1992,7-1,Shaquille O'Neal,C,1994-1995,1995,2,Orlando Magic,1,NA,325
+29,"Dec 4, 1988",1979,6-9,Magic Johnson,PG,1988-1989,1989,9,Los Angeles Lakers,1,NA,255
+27,"Dec 31, 2012",2005,6-3,Monta Ellis,G,2012-2013,2013,7,Milwaukee Bucks,0.5,East,185
+26,"Dec 31, 2012",2010,6-6,Greivis Vasquez,G,2012-2013,2013,2,New Orleans Hornets,0.5,West,217
+26,"Dec 31, 2012",2010,6-6,Greivis Vasquez,G,2012-2013,2013,2,New Orleans Hornets,0.5,West,217
+27,"Dec 31, 2006",2000,6-6,Michael Redd,G,2006-2007,2007,6,Milwaukee Bucks,0.5,East,220
+26,"Dec 31, 2006",2003,6-7,Josh Howard,GF,2006-2007,2007,3,Dallas Mavericks,0.5,West,210
+28,"Dec 31, 2000",1994,6-5,Aaron McKie,G,2000-2001,2001,6,Philadelphia Sixers,1,NA,209
+32,"Dec 31, 1995",1985,6-9,Karl Malone,PF,1995-1996,1996,10,Utah Jazz,1,NA,265
+29,"Dec 30, 2013",2003,6-11,Chris Bosh,PF,2013-2014,2014,10,Miami Heat,0.5,East,235
+25,"Dec 30, 2013",2007,6-9,Kevin Durant,SF,2013-2014,2014,6,Oklahoma City Thunder,0.5,West,240
+30,"Dec 30, 2007",1998,6-7,Paul Pierce,SF,2007-2008,2008,9,Boston Celtics,0.5,East,235
+22,"Dec 30, 2007",2005,6-0,Chris Paul,PG,2007-2008,2008,2,New Orleans Hornets,0.5,West,175
+22,"Dec 30, 2007",2005,6-0,Chris Paul,PG,2007-2008,2008,2,New Orleans Hornets,0.5,West,175
+28,"Dec 30, 2001",1994,6-4,Jason Kidd,PG,2001-2002,2002,7,New Jersey Nets,0.5,East,210
+25,"Dec 30, 2001",1997,6-11,Tim Duncan,FC,2001-2002,2002,4,San Antonio Spurs,0.5,West,250
+31,"Dec 30, 1990",1982,6-4,Ricky Pierce,SG,1990-1991,1991,8,Milwaukee Bucks,1,NA,205
+26,"Dec 30, 1989",1985,6-9,Karl Malone,PF,1989-1990,1990,4,Utah Jazz,1,NA,265
+29,"Dec 30, 1984",1978,6-5,Micheal Ray Richardson,PG,1984-1985,1985,6,New Jersey Nets,1,NA,189
+28,"Dec 3, 2012",2003,6-8,Carmelo Anthony,F,2012-2013,2013,9,New York Knicks,0.5,East,240
+24,"Dec 3, 2012",2007,6-9,Kevin Durant,SF,2012-2013,2013,5,Oklahoma City Thunder,0.5,West,240
+27,"Dec 3, 2006",2000,6-6,Michael Redd,G,2006-2007,2007,6,Milwaukee Bucks,0.5,East,220
+22,"Dec 3, 2006",2003,6-8,Carmelo Anthony,F,2006-2007,2007,3,Denver Nuggets,0.5,West,240
+26,"Dec 3, 2000",1995,6-9,Antonio McDyess,F,2000-2001,2001,5,Denver Nuggets,1,NA,245
+25,"Dec 3, 1995",1991,5-11,Terrell Brandon,PG,1995-1996,1996,4,Cleveland Cavaliers,1,NA,180
+27,"Dec 3, 1989",1985,7-0,Patrick Ewing,C,1989-1990,1990,4,New York Knicks,1,NA,240
+25,"Dec 29, 2014",2011,6-7,Jimmy Butler,GF,2014-2015,2015,3,Chicago Bulls,0.5,East,231
+25,"Dec 29, 2014",2009,6-5,James Harden,SG,2014-2015,2015,5,Houston Rockets,0.5,West,220
+24,"Dec 29, 2008",2003,6-8,LeBron James,F,2008-2009,2009,5,Cleveland Cavaliers,0.5,East,250
+30,"Dec 29, 2008",1996,6-6,Kobe Bryant,SG,2008-2009,2009,12,Los Angeles Lakers,0.5,West,212
+32,"Dec 29, 2002",1993,6-5,Lucious Harris,SG,2002-2003,2003,9,New Jersey Nets,0.5,East,190
+26,"Dec 29, 2002",1997,6-11,Tim Duncan,FC,2002-2003,2003,5,San Antonio Spurs,0.5,West,250
+30,"Dec 29, 1996",1989,6-0,Tim Hardaway,PG,1996-1997,1997,7,Miami Heat,1,NA,175
+26,"Dec 29, 1991",1987,6-8,Scottie Pippen,SF,1991-1992,1992,4,Chicago Bulls,1,NA,228
+26,"Dec 29, 1985",1982,6-7,Dominique Wilkins,SF,1985-1986,1986,3,Atlanta Hawks,1,NA,200
+32,"Dec 28, 2015",2005,6-11,Marcin Gortat,FC,2015-2016,2016,8,Washington Wizards,0.5,East,240
+27,"Dec 28, 2015",2008,6-3,Russell Westbrook,G,2015-2016,2016,7,Oklahoma City Thunder,0.5,West,200
+25,"Dec 28, 2009",2003,6-8,LeBron James,F,2009-2010,2010,6,Cleveland Cavaliers,0.5,East,250
+31,"Dec 28, 2009",1996,6-6,Kobe Bryant,SG,2009-2010,2010,13,Los Angeles Lakers,0.5,West,212
+30,"Dec 28, 2003",1994,6-4,Jason Kidd,PG,2003-2004,2004,9,New Jersey Nets,0.5,East,210
+34,"Dec 28, 2003",1993,6-3,Sam Cassell,G,2003-2004,2004,10,Minnesota Timberwolves,0.5,West,185
+32,"Dec 28, 1997",1987,7-1,David Robinson,C,1997-1998,1998,8,San Antonio Spurs,1,NA,250
+24,"Dec 28, 1986",1985,7-0,Patrick Ewing,C,1986-1987,1987,1,New York Knicks,1,NA,240
+26,"Dec 27, 2010",2003,6-8,LeBron James,F,2010-2011,2011,7,Miami Heat,0.5,East,250
+25,"Dec 27, 2010",2005,6-3,Monta Ellis,G,2010-2011,2011,5,Golden State Warriors,0.5,West,185
+23,"Dec 27, 1999",1995,6-11,Kevin Garnett,PF,1999-2000,2000,4,Minnesota Timberwolves,1,NA,240
+25,"Dec 27, 1992",1989,6-8,Sean Elliott,SF,1992-1993,1993,3,San Antonio Spurs,1,NA,205
+28,"Dec 27, 1987",1982,6-7,Dominique Wilkins,SF,1987-1988,1988,5,Atlanta Hawks,1,NA,200
+28,"Dec 26, 2017",2009,201cm,DeMar DeRozan,GF,2017-2018,2018,8,Toronto Raptors,0.5,East,100kg
+29,"Dec 26, 2017",2008,191cm,Russell Westbrook,G,2017-2018,2018,9,Oklahoma City Thunder,0.5,West,91kg
+28,"Dec 26, 2016",2011,175cm,Isaiah Thomas,PG,2016-2017,2017,5,Boston Celtics,0.5,East,84kg
+28,"Dec 26, 2016",2008,191cm,Russell Westbrook,G,2016-2017,2017,8,Oklahoma City Thunder,0.5,West,91kg
+29,"Dec 26, 2005",1998,6-6,Vince Carter,SF,2005-2006,2006,7,New Jersey Nets,0.5,East,220
+27,"Dec 26, 2005",1996,6-6,Kobe Bryant,SG,2005-2006,2006,9,Los Angeles Lakers,0.5,West,212
+29,"Dec 26, 2004",1996,6-0,Allen Iverson,G,2004-2005,2005,8,Philadelphia Sixers,0.5,East,165
+31,"Dec 26, 2004",1996,6-3,Steve Nash,G,2004-2005,2005,8,Phoenix Suns,0.5,West,178
+28,"Dec 26, 1993",1987,6-8,Scottie Pippen,SF,1993-1994,1994,6,Chicago Bulls,1,NA,228
+25,"Dec 25, 1994",1990,6-6,Cedric Ceballos,SF,1994-1995,1995,4,Los Angeles Lakers,1,NA,190
+26,"Dec 25, 1988",1983,6-7,Clyde Drexler,SG,1988-1989,1989,5,Portland Trail Blazers,1,NA,210
+28,"Dec 24, 2012",2003,6-8,LeBron James,F,2012-2013,2013,9,Miami Heat,0.5,East,250
+27,"Dec 24, 2012",2005,6-0,Chris Paul,PG,2012-2013,2013,7,Los Angeles Clippers,0.5,West,175
+27,"Dec 24, 2012",2005,6-0,Chris Paul,PG,2012-2013,2013,7,Los Angeles Clippers,0.5,West,175
+24,"Dec 24, 2006",2003,6-1,Mo Williams,G,2006-2007,2007,3,Milwaukee Bucks,0.5,East,198
+26,"Dec 24, 2006",2003,6-7,Josh Howard,GF,2006-2007,2007,3,Dallas Mavericks,0.5,West,210
+22,"Dec 24, 2000",1996,6-6,Kobe Bryant,SG,2000-2001,2001,4,Los Angeles Lakers,1,NA,212
+33,"Dec 24, 1995",1984,6-6,Michael Jordan,SG,1995-1996,1996,10,Chicago Bulls,1,NA,215
+28,"Dec 24, 1989",1982,6-9,Terry Cummings,PF,1989-1990,1990,7,San Antonio Spurs,1,NA,220
+32,"Dec 23, 2013",2003,6-4,Dwyane Wade,SG,2013-2014,2014,10,Miami Heat,0.5,East,220
+24,"Dec 23, 2013",2009,6-10,Blake Griffin,PF,2013-2014,2014,4,Los Angeles Clippers,0.5,West,251
+24,"Dec 23, 2013",2009,6-10,Blake Griffin,PF,2013-2014,2014,4,Los Angeles Clippers,0.5,West,251
+26,"Dec 23, 2007",2001,6-7,Joe Johnson,SG,2007-2008,2008,6,Atlanta Hawks,0.5,East,240
+23,"Dec 23, 2007",2003,6-8,Carmelo Anthony,F,2007-2008,2008,4,Denver Nuggets,0.5,West,240
+23,"Dec 23, 2001",1996,6-11,Jermaine O'Neal,FC,2001-2002,2002,5,Indiana Pacers,0.5,East,235
+33,"Dec 23, 2001",1990,6-4,Gary Payton,G,2001-2002,2002,11,Seattle SuperSonics,0.5,West,180
+28,"Dec 23, 1990",1984,6-6,Michael Jordan,SG,1990-1991,1991,6,Chicago Bulls,1,NA,215
+23,"Dec 23, 1984",1982,6-9,Terry Cummings,PF,1984-1985,1985,2,Milwaukee Bucks,1,NA,220
+28,"Dec 22, 2014",2007,6-10,Al Horford,FC,2014-2015,2015,7,Atlanta Hawks,0.5,East,245
+29,"Dec 22, 2014",2006,6-11,LaMarcus Aldridge,FC,2014-2015,2015,8,Portland Trail Blazers,0.5,West,260
+27,"Dec 22, 2008",2004,6-0,Jameer Nelson,G,2008-2009,2009,4,Orlando Magic,0.5,East,190
+23,"Dec 22, 2008",2005,6-0,Chris Paul,PG,2008-2009,2009,3,New Orleans Hornets,0.5,West,175
+23,"Dec 22, 2008",2005,6-0,Chris Paul,PG,2008-2009,2009,3,New Orleans Hornets,0.5,West,175
+29,"Dec 22, 2002",1994,6-4,Jason Kidd,PG,2002-2003,2003,8,New Jersey Nets,0.5,East,210
+26,"Dec 22, 2002",1997,6-11,Tim Duncan,FC,2002-2003,2003,5,San Antonio Spurs,0.5,West,250
+26,"Dec 22, 1996",1991,5-11,Terrell Brandon,PG,1996-1997,1997,5,Cleveland Cavaliers,1,NA,180
+24,"Dec 22, 1991",1989,6-9,Pervis Ellison,C,1991-1992,1992,2,Washington Bullets,1,NA,210
+27,"Dec 22, 1985",1981,6-10,Larry Nance,PF,1985-1986,1986,4,Phoenix Suns,1,NA,205
+25,"Dec 21, 2015",2011,6-3,Reggie Jackson,G,2015-2016,2016,4,Detroit Pistons,0.5,East,208
+24,"Dec 21, 2015",2011,6-7,Kawhi Leonard,F,2015-2016,2016,4,San Antonio Spurs,0.5,West,230
+24,"Dec 21, 2009",2004,6-11,Dwight Howard,C,2009-2010,2010,5,Orlando Magic,0.5,East,265
+31,"Dec 21, 2009",1996,6-6,Kobe Bryant,SG,2009-2010,2010,13,Los Angeles Lakers,0.5,West,212
+24,"Dec 21, 2003",1997,6-8,Tracy McGrady,GF,2003-2004,2004,6,Orlando Magic,0.5,East,210
+27,"Dec 21, 2003",1995,6-11,Kevin Garnett,PF,2003-2004,2004,8,Minnesota Timberwolves,0.5,West,240
+35,"Dec 21, 1997",1984,6-6,Michael Jordan,SG,1997-1998,1998,12,Chicago Bulls,1,NA,215
+27,"Dec 21, 1986",1979,6-9,Magic Johnson,PG,1986-1987,1987,7,Los Angeles Lakers,1,NA,255
+33,"Dec 20, 2010",1998,6-7,Paul Pierce,SF,2010-2011,2011,12,Boston Celtics,0.5,East,235
+28,"Dec 20, 2010",2001,6-2,Tony Parker,G,2010-2011,2011,9,San Antonio Spurs,0.5,West,185
+26,"Dec 20, 1999",1994,6-4,Jason Kidd,PG,1999-2000,2000,5,Phoenix Suns,1,NA,210
+30,"Dec 20, 1992",1985,7-0,Patrick Ewing,C,1992-1993,1993,7,New York Knicks,1,NA,240
+29,"Dec 20, 1987",1981,6-10,Larry Nance,PF,1987-1988,1988,6,Phoenix Suns,1,NA,205
+29,"Dec 2, 2013",2003,6-8,LeBron James,F,2013-2014,2014,10,Miami Heat,0.5,East,250
+25,"Dec 2, 2013",2007,6-9,Kevin Durant,SF,2013-2014,2014,6,Oklahoma City Thunder,0.5,West,240
+22,"Dec 2, 2007",2004,6-11,Dwight Howard,C,2007-2008,2008,3,Orlando Magic,0.5,East,265
+29,"Dec 2, 2007",1997,6-8,Stephen Jackson,GF,2007-2008,2008,10,Golden State Warriors,0.5,West,220
+24,"Dec 2, 2001",1998,6-7,Paul Pierce,SF,2001-2002,2002,3,Boston Celtics,0.5,East,235
+25,"Dec 2, 2001",1996,6-2,Stephon Marbury,G,2001-2002,2002,5,Phoenix Suns,0.5,West,180
+28,"Dec 2, 1990",1984,6-6,Michael Jordan,SG,1990-1991,1991,6,Chicago Bulls,1,NA,215
+29,"Dec 2, 1984",1977,6-11,Jack Sikma,C,1984-1985,1985,7,Seattle SuperSonics,1,NA,230
+27,"Dec 19, 2016",2009,201cm,DeMar DeRozan,GF,2016-2017,2017,7,Toronto Raptors,0.5,East,100kg
+27,"Dec 19, 2016",2009,196cm,James Harden,SG,2016-2017,2017,7,Houston Rockets,0.5,West,100kg
+24,"Dec 19, 2005",2001,6-7,Joe Johnson,SG,2005-2006,2006,4,Atlanta Hawks,0.5,East,240
+27,"Dec 19, 2005",1996,6-6,Kobe Bryant,SG,2005-2006,2006,9,Los Angeles Lakers,0.5,West,212
+32,"Dec 19, 2004",1992,7-1,Shaquille O'Neal,C,2004-2005,2005,12,Miami Heat,0.5,East,325
+26,"Dec 19, 2004",1999,6-7,Shawn Marion,F,2004-2005,2005,5,Phoenix Suns,0.5,West,228
+30,"Dec 19, 1993",1985,6-9,Karl Malone,PF,1993-1994,1994,8,Utah Jazz,1,NA,265
+33,"Dec 18, 2017",2003,203cm,LeBron James,F,2017-2018,2018,14,Cleveland Cavaliers,0.5,East,113kg
+32,"Dec 18, 2017",2005,183cm,Chris Paul,PG,2017-2018,2018,12,Houston Rockets,0.5,West,79kg
+31,"Dec 18, 1994",1985,6-9,Karl Malone,PF,1994-1995,1995,9,Utah Jazz,1,NA,265
+35,"Dec 18, 1988",1976,7-0,Robert Parish,C,1988-1989,1989,11,Boston Celtics,1,NA,230
+22,"Dec 17, 2012",2010,6-9,Paul George,GF,2012-2013,2013,2,Indiana Pacers,0.5,East,220
+29,"Dec 17, 2012",2005,6-9,David Lee,FC,2012-2013,2013,7,Golden State Warriors,0.5,West,245
+25,"Dec 17, 2006",2001,6-3,Gilbert Arenas,G,2006-2007,2007,5,Washington Wizards,0.5,East,191
+25,"Dec 17, 2006",2002,6-9,Carlos Boozer,PF,2006-2007,2007,4,Utah Jazz,0.5,West,266
+28,"Dec 17, 2000",1994,6-7,Glenn Robinson,SF,2000-2001,2001,6,Milwaukee Bucks,1,NA,225
+30,"Dec 17, 1995",1987,6-8,Scottie Pippen,SF,1995-1996,1996,8,Chicago Bulls,1,NA,228
+26,"Dec 17, 1989",1985,6-7,Chris Mullin,SF,1989-1990,1990,4,Golden State Warriors,1,NA,215
+21,"Dec 16, 2013",2011,6-3,Kyrie Irving,G,2013-2014,2014,2,Cleveland Cavaliers,0.5,East,193
+28,"Dec 16, 2013",2006,6-11,LaMarcus Aldridge,FC,2013-2014,2014,7,Portland Trail Blazers,0.5,West,260
+30,"Dec 16, 2007",1998,6-7,Paul Pierce,SF,2007-2008,2008,9,Boston Celtics,0.5,East,235
+23,"Dec 16, 2007",2006,6-6,Brandon Roy,G,2007-2008,2008,1,Portland Trail Blazers,0.5,West,211
+24,"Dec 16, 2001",1999,6-7,Richard Hamilton,SG,2001-2002,2002,2,Washington Wizards,0.5,East,193
+28,"Dec 16, 2001",1996,6-3,Steve Nash,G,2001-2002,2002,5,Dallas Mavericks,0.5,West,178
+24,"Dec 16, 1990",1987,6-1,Kevin Johnson,PG,1990-1991,1991,3,Phoenix Suns,1,NA,180
+23,"Dec 16, 1984",1982,6-6,Derek Smith,SG,1984-1985,1985,2,Los Angeles Clippers,1,NA,205
+23,"Dec 16, 1984",1982,6-6,Derek Smith,SG,1984-1985,1985,2,Los Angeles Clippers,1,NA,205
+24,"Dec 15, 2014",2010,6-4,John Wall,PG,2014-2015,2015,4,Washington Wizards,0.5,East,210
+25,"Dec 15, 2014",2009,6-5,James Harden,SG,2014-2015,2015,5,Houston Rockets,0.5,West,220
+29,"Dec 15, 2008",1998,6-9,Al Harrington,F,2008-2009,2009,10,New York Knicks,0.5,East,245
+32,"Dec 15, 2008",1997,6-11,Tim Duncan,FC,2008-2009,2009,11,San Antonio Spurs,0.5,West,250
+26,"Dec 15, 2002",1996,6-9,Antoine Walker,F,2002-2003,2003,6,Boston Celtics,0.5,East,265
+29,"Dec 15, 2002",1993,6-9,Chris Webber,F-C,2002-2003,2003,9,Sacramento Kings,0.5,West,245
+24,"Dec 15, 1996",1992,7-1,Shaquille O'Neal,C,1996-1997,1997,4,Los Angeles Lakers,1,NA,325
+30,"Dec 15, 1991",1986,6-7,Dennis Rodman,PF,1991-1992,1992,5,Detroit Pistons,1,NA,210
+23,"Dec 15, 1985",1984,6-3,Alvin Robertson,SG,1985-1986,1986,1,San Antonio Spurs,1,NA,185
+26,"Dec 14, 2015",2009,6-7,DeMar DeRozan,GF,2015-2016,2016,6,Toronto Raptors,0.5,East,221
+27,"Dec 14, 2015",2007,6-9,Kevin Durant,SF,2015-2016,2016,8,Oklahoma City Thunder,0.5,West,240
+23,"Dec 14, 2009",2007,6-5,Rodney Stuckey,G,2009-2010,2010,2,Detroit Pistons,0.5,East,205
+25,"Dec 14, 2009",2005,6-3,Deron Williams,PG,2009-2010,2010,4,Utah Jazz,0.5,West,200
+26,"Dec 14, 2003",1998,6-7,Paul Pierce,SF,2003-2004,2004,5,Boston Celtics,0.5,East,235
+26,"Dec 14, 2003",1996,6-10,Peja Stojakovic,F,2003-2004,2004,5,Sacramento Kings,0.5,West,229
+30,"Dec 14, 1997",1989,6-8,Glen Rice,SF,1997-1998,1998,8,Charlotte Hornets,1,NA,228
+27,"Dec 14, 1986",1982,6-7,Dominique Wilkins,SF,1986-1987,1987,4,Atlanta Hawks,1,NA,200
+29,"Dec 13, 2010",2003,6-4,Dwyane Wade,SG,2010-2011,2011,7,Miami Heat,0.5,East,220
+32,"Dec 13, 2010",1998,7-0,Dirk Nowitzki,PF,2010-2011,2011,12,Dallas Mavericks,0.5,West,245
+30,"Dec 13, 1999",1992,6-10,Alonzo Mourning,C,1999-2000,2000,7,Miami Heat,1,NA,240
+30,"Dec 13, 1992",1984,6-6,Charles Barkley,PF,1992-1993,1993,8,Phoenix Suns,1,NA,252
+28,"Dec 13, 1987",1979,6-9,Magic Johnson,PG,1987-1988,1988,8,Los Angeles Lakers,1,NA,255
+32,"Dec 12, 2016",2003,203cm,LeBron James,F,2016-2017,2017,13,Cleveland Cavaliers,0.5,East,113kg
+32,"Dec 12, 2016",2007,216cm,Marc Gasol,C,2016-2017,2017,8,Memphis Grizzlies,0.5,West,116kg
+30,"Dec 12, 2005",1996,6-0,Allen Iverson,G,2005-2006,2006,9,Philadelphia Sixers,0.5,East,165
+26,"Dec 12, 2005",1999,6-9,Elton Brand,PF,2005-2006,2006,6,Los Angeles Clippers,0.5,West,254
+26,"Dec 12, 2005",1999,6-9,Elton Brand,PF,2005-2006,2006,6,Los Angeles Clippers,0.5,West,254
+24,"Dec 12, 2004",2001,6-7,Richard Jefferson,SF,2004-2005,2005,3,New Jersey Nets,0.5,East,233
+22,"Dec 12, 2004",2002,6-10,Amar'e Stoudemire,FC,2004-2005,2005,2,Phoenix Suns,0.5,West,245
+21,"Dec 12, 1993",1992,7-1,Shaquille O'Neal,C,1993-1994,1994,1,Orlando Magic,1,NA,325
+25,"Dec 11, 2017",2013,193cm,Victor Oladipo,G,2017-2018,2018,4,Indiana Pacers,0.5,East,95kg
+29,"Dec 11, 2017",2007,206cm,Kevin Durant,SF,2017-2018,2018,10,Golden State Warriors,0.5,West,109kg
+22,"Dec 11, 1994",1993,6-8,Jamal Mashburn,SF,1994-1995,1995,1,Dallas Mavericks,1,NA,247
+26,"Dec 11, 1988",1985,5-10,Michael Adams,PG,1988-1989,1989,3,Denver Nuggets,1,NA,163
+27,"Dec 10, 2012",2004,6-9,Josh Smith,PF,2012-2013,2013,8,Atlanta Hawks,0.5,East,225
+23,"Dec 10, 2012",2009,6-10,Blake Griffin,PF,2012-2013,2013,3,Los Angeles Clippers,0.5,West,251
+23,"Dec 10, 2012",2009,6-10,Blake Griffin,PF,2012-2013,2013,3,Los Angeles Clippers,0.5,West,251
+25,"Dec 10, 2006",2001,6-3,Gilbert Arenas,G,2006-2007,2007,5,Washington Wizards,0.5,East,191
+33,"Dec 10, 2006",1996,6-3,Steve Nash,G,2006-2007,2007,10,Phoenix Suns,0.5,West,178
+28,"Dec 10, 2000",1993,6-9,Chris Webber,F-C,2000-2001,2001,7,Sacramento Kings,1,NA,245
+29,"Dec 10, 1995",1991,7-2,Dikembe Mutombo,C,1995-1996,1996,4,Denver Nuggets,1,NA,260
+27,"Dec 10, 1989",1984,6-6,Michael Jordan,SG,1989-1990,1990,5,Chicago Bulls,1,NA,215
+30,"Dec 1, 2014",2003,6-8,LeBron James,F,2014-2015,2015,11,Cleveland Cavaliers,0.5,East,250
+25,"Dec 1, 2014",2009,6-10,Blake Griffin,PF,2014-2015,2015,5,Los Angeles Clippers,0.5,West,251
+25,"Dec 1, 2014",2009,6-10,Blake Griffin,PF,2014-2015,2015,5,Los Angeles Clippers,0.5,West,251
+26,"Dec 1, 2008",2004,6-3,Devin Harris,G,2008-2009,2009,4,New Jersey Nets,0.5,East,185
+24,"Dec 1, 2008",2006,6-6,Brandon Roy,G,2008-2009,2009,2,Portland Trail Blazers,0.5,West,211
+27,"Dec 1, 2002",1996,6-0,Allen Iverson,G,2002-2003,2003,6,Philadelphia Sixers,0.5,East,165
+26,"Dec 1, 2002",1996,6-2,Stephon Marbury,G,2002-2003,2003,6,Phoenix Suns,0.5,West,180
+30,"Dec 1, 1996",1991,7-2,Dikembe Mutombo,C,1996-1997,1997,5,Atlanta Hawks,1,NA,260
+26,"Dec 1, 1991",1987,7-1,David Robinson,C,1991-1992,1992,2,San Antonio Spurs,1,NA,250
+29,"Dec 1, 1985",1978,6-9,Larry Bird,SF,1985-1986,1986,6,Boston Celtics,1,NA,220
+21,"Apr 9, 2018",2016,208cm,Ben Simmons,PF,2017-2018,2018,1,Philadelphia Sixers,0.5,East,104kg
+23,"Apr 9, 2018",2014,208cm,Nikola Jokic,C,2017-2018,2018,2,Denver Nuggets,0.5,West,113kg
+27,"Apr 9, 2012",2003,6-8,LeBron James,F,2011-2012,2012,8,Miami Heat,0.5,East,250
+25,"Apr 9, 2012",2008,6-3,Goran Dragic,G,2011-2012,2012,3,Houston Rockets,0.5,West,190
+25,"Apr 9, 2006",2000,6-5,Jamal Crawford,SG,2005-2006,2006,5,New York Knicks,0.5,East,195
+23,"Apr 9, 2006",2002,6-10,Chris Wilcox,FC,2005-2006,2006,3,Seattle SuperSonics,0.5,West,235
+32,"Apr 9, 1995",1983,6-7,Clyde Drexler,SG,1994-1995,1995,11,Houston Rockets,1,NA,210
+26,"Apr 9, 1989",1983,6-7,Clyde Drexler,SG,1988-1989,1989,5,Portland Trail Blazers,1,NA,210
+28,"Apr 8, 2013",2003,6-8,Carmelo Anthony,F,2012-2013,2013,9,New York Knicks,0.5,East,240
+27,"Apr 8, 2013",2008,6-11,Nikola Pekovic,PF,2012-2013,2013,2,Minnesota Timberwolves,0.5,West,307
+24,"Apr 8, 2007",2001,6-7,Gerald Wallace,F,2006-2007,2007,5,Charlotte Bobcats,0.5,East,220
+30,"Apr 8, 2007",1997,6-11,Tim Duncan,FC,2006-2007,2007,9,San Antonio Spurs,0.5,West,250
+28,"Apr 8, 2001",1992,7-1,Shaquille O'Neal,C,2000-2001,2001,8,Los Angeles Lakers,1,NA,325
+27,"Apr 8, 1990",1984,6-6,Charles Barkley,PF,1989-1990,1990,5,Philadelphia Sixers,1,NA,252
+29,"Apr 7, 2014",2004,6-10,Al Jefferson,FC,2013-2014,2014,9,Charlotte Bobcats,0.5,East,289
+35,"Apr 7, 2014",1998,7-0,Dirk Nowitzki,PF,2013-2014,2014,15,Dallas Mavericks,0.5,West,245
+24,"Apr 7, 2002",1998,6-7,Paul Pierce,SF,2001-2002,2002,3,Boston Celtics,0.5,East,235
+25,"Apr 7, 2002",1997,6-11,Tim Duncan,FC,2001-2002,2002,4,San Antonio Spurs,0.5,West,250
+29,"Apr 7, 1996",1987,6-1,Kevin Johnson,PG,1995-1996,1996,8,Phoenix Suns,1,NA,180
+31,"Apr 7, 1991",1979,6-9,Magic Johnson,PG,1990-1991,1991,11,Los Angeles Lakers,1,NA,255
+23,"Apr 7, 1985",1982,6-6,Derek Smith,SG,1984-1985,1985,2,Los Angeles Clippers,1,NA,205
+23,"Apr 7, 1985",1982,6-6,Derek Smith,SG,1984-1985,1985,2,Los Angeles Clippers,1,NA,205
+26,"Apr 6, 2015",2008,7-0,Brook Lopez,C,2014-2015,2015,6,Brooklyn Nets,0.5,East,268
+25,"Apr 6, 2015",2009,6-5,James Harden,SG,2014-2015,2015,5,Houston Rockets,0.5,West,220
+23,"Apr 6, 2009",2004,6-11,Dwight Howard,C,2008-2009,2009,4,Orlando Magic,0.5,East,265
+35,"Apr 6, 2009",1994,6-4,Jason Kidd,PG,2008-2009,2009,14,Dallas Mavericks,0.5,West,210
+26,"Apr 6, 2008",2001,6-7,Joe Johnson,SG,2007-2008,2008,6,Atlanta Hawks,0.5,East,240
+29,"Apr 6, 2008",1996,6-6,Kobe Bryant,SG,2007-2008,2008,11,Los Angeles Lakers,0.5,West,212
+29,"Apr 6, 2003",1994,6-4,Jason Kidd,PG,2002-2003,2003,8,New Jersey Nets,0.5,East,210
+30,"Apr 6, 2003",1992,7-1,Shaquille O'Neal,C,2002-2003,2003,10,Los Angeles Lakers,0.5,West,325
+24,"Apr 6, 1997",1994,6-8,Grant Hill,SF,1996-1997,1997,2,Detroit Pistons,1,NA,225
+28,"Apr 6, 1986",1981,6-10,Herb Williams,C,1985-1986,1986,4,Indiana Pacers,1,NA,242
+25,"Apr 5, 2010",2003,6-11,Chris Bosh,PF,2009-2010,2010,6,Toronto Raptors,0.5,East,235
+21,"Apr 5, 2010",2007,6-9,Kevin Durant,SF,2009-2010,2010,2,Oklahoma City Thunder,0.5,West,240
+23,"Apr 5, 2004",2001,6-7,Richard Jefferson,SF,2003-2004,2004,2,New Jersey Nets,0.5,East,233
+25,"Apr 5, 2004",1998,7-0,Dirk Nowitzki,PF,2003-2004,2004,5,Dallas Mavericks,0.5,West,245
+35,"Apr 5, 1998",1984,6-6,Michael Jordan,SG,1997-1998,1998,12,Chicago Bulls,1,NA,215
+24,"Apr 5, 1992",1989,6-1,Mookie Blaylock,PG,1991-1992,1992,2,New Jersey Nets,1,NA,190
+27,"Apr 5, 1987",1979,6-9,Magic Johnson,PG,1986-1987,1987,7,Los Angeles Lakers,1,NA,255
+31,"Apr 4, 2016",2003,6-8,LeBron James,F,2015-2016,2016,12,Cleveland Cavaliers,0.5,East,250
+31,"Apr 4, 2016",2006,6-0,J.J. Barea,G,2015-2016,2016,9,Dallas Mavericks,0.5,West,185
+26,"Apr 4, 2011",2003,6-8,Carmelo Anthony,F,2010-2011,2011,7,New York Knicks,0.5,East,240
+29,"Apr 4, 2011",2001,6-9,Zach Randolph,PF,2010-2011,2011,9,Memphis Grizzlies,0.5,West,260
+22,"Apr 4, 1999",1995,6-11,Kevin Garnett,PF,1998-1999,1999,3,Minnesota Timberwolves,1,NA,240
+30,"Apr 4, 1993",1984,6-6,Charles Barkley,PF,1992-1993,1993,8,Phoenix Suns,1,NA,252
+27,"Apr 3, 2017",2011,201cm,Jimmy Butler,GF,2016-2017,2017,5,Chicago Bulls,0.5,East,105kg
+28,"Apr 3, 2017",2009,191cm,Stephen Curry,G,2016-2017,2017,7,Golden State Warriors,0.5,West,86kg
+39,"Apr 3, 2005",1987,6-7,Reggie Miller,SG,2004-2005,2005,17,Indiana Pacers,0.5,East,185
+25,"Apr 3, 2005",1999,6-3,Baron Davis,G,2004-2005,2005,5,Golden State Warriors,0.5,West,215
+23,"Apr 3, 2000",1997,6-11,Tim Duncan,FC,1999-2000,2000,2,San Antonio Spurs,1,NA,250
+24,"Apr 3, 1994",1989,6-10,Shawn Kemp,C,1993-1994,1994,4,Seattle SuperSonics,1,NA,280
+25,"Apr 3, 1988",1984,6-6,Michael Jordan,SG,1987-1988,1988,3,Chicago Bulls,1,NA,215
+25,"Apr 25, 1999",1993,6-9,Chris Webber,F-C,1998-1999,1999,5,Sacramento Kings,1,NA,245
+23,"Apr 25, 1993",1991,6-6,Larry Johnson,F,1992-1993,1993,1,Charlotte Hornets,1,NA,250
+28,"Apr 24, 1994",1987,7-1,David Robinson,C,1993-1994,1994,4,San Antonio Spurs,1,NA,250
+24,"Apr 24, 1988",1985,6-9,Karl Malone,PF,1987-1988,1988,2,Utah Jazz,1,NA,265
+27,"Apr 23, 2012",2003,6-8,LeBron James,F,2011-2012,2012,8,Miami Heat,0.5,East,250
+27,"Apr 23, 2012",2004,6-10,Al Jefferson,FC,2011-2012,2012,7,Utah Jazz,0.5,West,289
+31,"Apr 23, 1995",1985,6-9,Karl Malone,PF,1994-1995,1995,9,Utah Jazz,1,NA,265
+25,"Apr 23, 1989",1985,6-7,Xavier McDaniel,PF,1988-1989,1989,3,Seattle SuperSonics,1,NA,205
+24,"Apr 22, 1990",1987,7-1,David Robinson,C,1989-1990,1990,0,San Antonio Spurs,1,NA,250
+27,"Apr 21, 1996",1990,6-8,Dennis Scott,SF,1995-1996,1996,5,Orlando Magic,1,NA,229
+26,"Apr 21, 1991",1986,6-1,Scott Skiles,PG,1990-1991,1991,4,Orlando Magic,1,NA,180
+24,"Apr 20, 1997",1993,6-9,Chris Webber,F-C,1996-1997,1997,3,Washington Bullets,1,NA,245
+25,"Apr 2, 2018",2013,193cm,Victor Oladipo,G,2017-2018,2018,4,Indiana Pacers,0.5,East,95kg
+27,"Apr 2, 2018",2012,191cm,Damian Lillard,G,2017-2018,2018,5,Portland Trail Blazers,0.5,West,88kg
+34,"Apr 2, 2012",1998,6-7,Paul Pierce,SF,2011-2012,2012,13,Boston Celtics,0.5,East,235
+26,"Apr 2, 2012",2005,6-0,Chris Paul,PG,2011-2012,2012,6,Los Angeles Clippers,0.5,West,175
+26,"Apr 2, 2012",2005,6-0,Chris Paul,PG,2011-2012,2012,6,Los Angeles Clippers,0.5,West,175
+21,"Apr 2, 2006",2003,6-8,LeBron James,F,2005-2006,2006,2,Cleveland Cavaliers,0.5,East,250
+25,"Apr 2, 2006",2002,7-6,Yao Ming,C,2005-2006,2006,3,Houston Rockets,0.5,West,310
+29,"Apr 2, 1995",1987,7-1,David Robinson,C,1994-1995,1995,5,San Antonio Spurs,1,NA,250
+26,"Apr 2, 1989",1984,6-6,Michael Jordan,SG,1988-1989,1989,4,Chicago Bulls,1,NA,215
+24,"Apr 19, 1998",1994,6-4,Jason Kidd,PG,1997-1998,1998,3,Phoenix Suns,1,NA,210
+28,"Apr 19, 1992",1985,6-9,Karl Malone,PF,1991-1992,1992,6,Utah Jazz,1,NA,265
+37,"Apr 19, 1987",1972,6-6,Julius Erving,SF,1986-1987,1987,14,Philadelphia Sixers,1,NA,200
+25,"Apr 18, 1999",1994,6-4,Jason Kidd,PG,1998-1999,1999,4,Phoenix Suns,1,NA,210
+23,"Apr 18, 1993",1992,6-10,Alonzo Mourning,C,1992-1993,1993,0,Charlotte Hornets,1,NA,240
+31,"Apr 17, 2005",1994,6-4,Jason Kidd,PG,2004-2005,2005,10,New Jersey Nets,0.5,East,210
+25,"Apr 17, 2005",1997,6-8,Tracy McGrady,GF,2004-2005,2005,7,Houston Rockets,0.5,West,210
+21,"Apr 17, 2000",1996,6-6,Kobe Bryant,SG,1999-2000,2000,3,Los Angeles Lakers,1,NA,212
+28,"Apr 17, 1994",1987,6-8,Scottie Pippen,SF,1993-1994,1994,6,Chicago Bulls,1,NA,228
+27,"Apr 17, 1988",1982,6-3,Fat Lever,PG,1987-1988,1988,5,Denver Nuggets,1,NA,170
+35,"Apr 16, 2012",1995,6-11,Kevin Garnett,PF,2011-2012,2012,16,Boston Celtics,0.5,East,240
+24,"Apr 16, 2012",2005,7-0,Andrew Bynum,C,2011-2012,2012,6,Los Angeles Lakers,0.5,West,285
+22,"Apr 16, 2006",2004,6-3,Ben Gordon,SG,2005-2006,2006,1,Chicago Bulls,0.5,East,200
+27,"Apr 16, 2006",1996,6-6,Kobe Bryant,SG,2005-2006,2006,9,Los Angeles Lakers,0.5,West,212
+28,"Apr 16, 1995",1991,7-2,Dikembe Mutombo,C,1994-1995,1995,3,Denver Nuggets,1,NA,260
+25,"Apr 16, 1989",1985,6-9,Karl Malone,PF,1988-1989,1989,3,Utah Jazz,1,NA,265
+28,"Apr 15, 2013",2003,6-8,Carmelo Anthony,F,2012-2013,2013,9,New York Knicks,0.5,East,240
+34,"Apr 15, 2013",1996,6-6,Kobe Bryant,SG,2012-2013,2013,16,Los Angeles Lakers,0.5,West,212
+23,"Apr 15, 2007",2004,6-3,Ben Gordon,SG,2006-2007,2007,2,Chicago Bulls,0.5,East,200
+27,"Apr 15, 2007",1997,6-8,Tracy McGrady,GF,2006-2007,2007,9,Houston Rockets,0.5,West,210
+25,"Apr 15, 2001",1996,6-5,Ray Allen,SG,2000-2001,2001,4,Milwaukee Bucks,1,NA,205
+30,"Apr 15, 1990",1979,6-9,Magic Johnson,PG,1989-1990,1990,10,Los Angeles Lakers,1,NA,255
+25,"Apr 14, 2014",2009,6-2,Jeff Teague,PG,2013-2014,2014,4,Atlanta Hawks,0.5,East,186
+28,"Apr 14, 2014",2005,6-3,Monta Ellis,G,2013-2014,2014,8,Dallas Mavericks,0.5,West,185
+23,"Apr 14, 1996",1994,6-9,Juwan Howard,PF,1995-1996,1996,1,Washington Bullets,1,NA,240
+28,"Apr 14, 1991",1983,6-7,Clyde Drexler,SG,1990-1991,1991,7,Portland Trail Blazers,1,NA,210
+29,"Apr 14, 1985",1978,6-5,Micheal Ray Richardson,PG,1984-1985,1985,6,New Jersey Nets,1,NA,189
+26,"Apr 13, 2015",2011,5-9,Isaiah Thomas,PG,2014-2015,2015,3,Boston Celtics,0.5,East,185
+38,"Apr 13, 2015",1997,6-11,Tim Duncan,FC,2014-2015,2015,17,San Antonio Spurs,0.5,West,250
+25,"Apr 13, 2009",2004,6-3,Ben Gordon,SG,2008-2009,2009,4,Chicago Bulls,0.5,East,200
+24,"Apr 13, 2009",2006,6-6,Brandon Roy,G,2008-2009,2009,2,Portland Trail Blazers,0.5,West,211
+31,"Apr 13, 2008",1995,6-11,Kevin Garnett,PF,2007-2008,2008,12,Boston Celtics,0.5,East,240
+32,"Apr 13, 2008",1996,6-0,Allen Iverson,G,2007-2008,2008,11,Denver Nuggets,0.5,West,165
+23,"Apr 13, 2003",1997,6-8,Tracy McGrady,GF,2002-2003,2003,5,Orlando Magic,0.5,East,210
+24,"Apr 13, 2003",1999,6-7,Shawn Marion,F,2002-2003,2003,3,Phoenix Suns,0.5,West,228
+21,"Apr 13, 1997",1996,6-0,Allen Iverson,G,1996-1997,1997,0,Philadelphia Sixers,1,NA,165
+26,"Apr 13, 1986",1982,6-7,Dominique Wilkins,SF,1985-1986,1986,3,Atlanta Hawks,1,NA,200
+24,"Apr 12, 2010",2004,6-11,Dwight Howard,C,2009-2010,2010,5,Orlando Magic,0.5,East,265
+31,"Apr 12, 2010",1998,7-0,Dirk Nowitzki,PF,2009-2010,2010,11,Dallas Mavericks,0.5,West,245
+25,"Apr 12, 2004",2000,6-11,Jamaal Magloire,C,2003-2004,2004,3,New Orleans Hornets,0.5,East,259
+25,"Apr 12, 2004",2000,6-11,Jamaal Magloire,C,2003-2004,2004,3,New Orleans Hornets,0.5,East,259
+19,"Apr 12, 2004",2003,6-8,Carmelo Anthony,F,2003-2004,2004,0,Denver Nuggets,0.5,West,240
+28,"Apr 12, 1998",1993,6-3,Sam Cassell,G,1997-1998,1998,4,New Jersey Nets,1,NA,185
+26,"Apr 12, 1992",1987,6-7,Reggie Lewis,SF,1991-1992,1992,4,Boston Celtics,1,NA,195
+24,"Apr 12, 1987",1984,6-6,Michael Jordan,SG,1986-1987,1987,2,Chicago Bulls,1,NA,215
+31,"Apr 11, 2016",2006,6-8,Paul Millsap,FC,2015-2016,2016,9,Atlanta Hawks,0.5,East,246
+20,"Apr 11, 2016",2015,7-0,Karl-Anthony Towns,C,2015-2016,2016,0,Minnesota Timberwolves,0.5,West,244
+26,"Apr 11, 2011",2003,6-8,Carmelo Anthony,F,2010-2011,2011,7,New York Knicks,0.5,East,240
+22,"Apr 11, 2011",2007,6-9,Kevin Durant,SF,2010-2011,2011,3,Oklahoma City Thunder,0.5,West,240
+35,"Apr 11, 1999",1985,6-9,Karl Malone,PF,1998-1999,1999,13,Utah Jazz,1,NA,265
+30,"Apr 11, 1993",1984,7-0,Hakeem Olajuwon,C,1992-1993,1993,8,Houston Rockets,1,NA,255
+26,"Apr 10, 2017",2010,206cm,Paul George,GF,2016-2017,2017,6,Indiana Pacers,0.5,East,100kg
+28,"Apr 10, 2017",2008,191cm,Russell Westbrook,G,2016-2017,2017,8,Oklahoma City Thunder,0.5,West,91kg
+28,"Apr 10, 2005",1998,6-6,Vince Carter,SF,2004-2005,2005,6,New Jersey Nets,0.5,East,220
+25,"Apr 10, 2005",1999,6-3,Baron Davis,G,2004-2005,2005,5,Golden State Warriors,0.5,West,215
+30,"Apr 10, 2000",1992,6-10,Alonzo Mourning,C,1999-2000,2000,7,Miami Heat,1,NA,240
+27,"Apr 10, 1994",1991,7-2,Dikembe Mutombo,C,1993-1994,1994,2,Denver Nuggets,1,NA,260
+24,"Apr 10, 1988",1986,6-7,Harold Pressley,GF,1987-1988,1988,1,Sacramento Kings,1,NA,210
+27,"Apr 1, 2013",2004,6-6,J.R. Smith,SG,2012-2013,2013,8,New York Knicks,0.5,East,225
+28,"Apr 1, 2013",2004,6-10,Al Jefferson,FC,2012-2013,2013,8,Utah Jazz,0.5,West,289
+22,"Apr 1, 2007",2003,6-11,Chris Bosh,PF,2006-2007,2007,3,Toronto Raptors,0.5,East,235
+26,"Apr 1, 2007",2002,7-6,Yao Ming,C,2006-2007,2007,4,Houston Rockets,0.5,West,310
+27,"Apr 1, 2001",1994,6-4,Jason Kidd,PG,2000-2001,2001,6,Phoenix Suns,1,NA,210
+27,"Apr 1, 1990",1984,6-6,Michael Jordan,SG,1989-1990,1990,5,Chicago Bulls,1,NA,215
+28,"Apr 1, 1985",1979,6-6,Calvin Natt,F,1984-1985,1985,5,Denver Nuggets,1,NA,220
